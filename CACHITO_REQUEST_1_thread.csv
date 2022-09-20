@@ -1,0 +1,448 @@
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   46.20%    129.4MiB / 15.5GiB   0.82%     15.1MB / 156kB    38.5MB / 352kB    12
+894c51829de4   cachito_threads-cachito-api-1      0.81%     176.7MiB / 15.5GiB   1.11%     59.6kB / 64.2kB   48.3MB / 90.1kB   3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.89%     1.63GiB / 15.5GiB    10.51%    66.6kB / 52.8kB   46.7MB / 6.21MB   37
+dcf3763c4940   cachito_threads-nexus-1            0.64%     2.155GiB / 15.5GiB   13.91%    68.6kB / 16.5kB   218MB / 316MB     88
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     105.1MiB / 15.5GiB   0.66%     55.1kB / 30.5kB   26MB / 89.6MB     8
+e4f0767f6d62   cachito_threads-athens-1           0.02%     14.62MiB / 15.5GiB   0.09%     14.7kB / 1.37kB   24.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   82.06%    394.6MiB / 15.5GiB   2.49%     225MB / 818kB     38.5MB / 49MB     14
+894c51829de4   cachito_threads-cachito-api-1      0.64%     176.7MiB / 15.5GiB   1.11%     59.9kB / 64.5kB   48.3MB / 106kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         69.05%    2.763GiB / 15.5GiB   17.83%    70.4kB / 56.6kB   46.7MB / 6.28MB   41
+dcf3763c4940   cachito_threads-nexus-1            0.52%     2.155GiB / 15.5GiB   13.90%    68.6kB / 16.5kB   218MB / 316MB     88
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     105.2MiB / 15.5GiB   0.66%     55.2kB / 30.6kB   26MB / 89.7MB     8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     14.62MiB / 15.5GiB   0.09%     14.7kB / 1.37kB   24.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   112.18%   739.6MiB / 15.5GiB   4.66%     652MB / 1.76MB    38.5MB / 283MB    14
+894c51829de4   cachito_threads-cachito-api-1      0.62%     173MiB / 15.5GiB     1.09%     62.8kB / 69kB     48.4MB / 115kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.62%     1.621GiB / 15.5GiB   10.46%    73.6kB / 59.9kB   46.8MB / 6.51MB   37
+dcf3763c4940   cachito_threads-nexus-1            9.25%     2.104GiB / 15.5GiB   13.57%    68.6kB / 16.5kB   218MB / 316MB     88
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     97.18MiB / 15.5GiB   0.61%     57.9kB / 32.9kB   26MB / 89.7MB     8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     19.32MiB / 15.5GiB   0.12%     14.8kB / 1.48kB   24.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   373.01%   888.5MiB / 15.5GiB   5.60%     754MB / 2MB       38.5MB / 769MB    17
+894c51829de4   cachito_threads-cachito-api-1      0.51%     173MiB / 15.5GiB     1.09%     65.7kB / 73.5kB   48.4MB / 123kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.17%     1.621GiB / 15.5GiB   10.46%    77kB / 63.3kB     46.8MB / 6.51MB   37
+dcf3763c4940   cachito_threads-nexus-1            0.51%     2.104GiB / 15.5GiB   13.57%    68.6kB / 16.5kB   218MB / 316MB     88
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     98.17MiB / 15.5GiB   0.62%     60.6kB / 35.1kB   26MB / 89.7MB     8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     19.32MiB / 15.5GiB   0.12%     14.9kB / 1.58kB   24.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   99.86%    900.2MiB / 15.5GiB   5.67%     754MB / 2.01MB    42.9MB / 817MB    11
+894c51829de4   cachito_threads-cachito-api-1      0.61%     173MiB / 15.5GiB     1.09%     68.6kB / 78kB     48.4MB / 131kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.60%     1.621GiB / 15.5GiB   10.46%    80.7kB / 67.1kB   46.8MB / 6.51MB   37
+dcf3763c4940   cachito_threads-nexus-1            1.15%     2.104GiB / 15.5GiB   13.57%    68.6kB / 16.5kB   218MB / 316MB     88
+6e08b5e0ca0a   cachito_threads-db-1               0.01%     98.17MiB / 15.5GiB   0.62%     63.3kB / 37.3kB   26MB / 89.7MB     8
+e4f0767f6d62   cachito_threads-athens-1           0.01%     19.32MiB / 15.5GiB   0.12%     15kB / 1.65kB     24.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   100.17%   1002MiB / 15.5GiB    6.31%     754MB / 2.01MB    42.9MB / 1.35GB   11
+894c51829de4   cachito_threads-cachito-api-1      0.47%     173MiB / 15.5GiB     1.09%     71.7kB / 82.7kB   48.4MB / 139kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.18%     1.621GiB / 15.5GiB   10.46%    84.2kB / 70.7kB   46.8MB / 6.51MB   37
+dcf3763c4940   cachito_threads-nexus-1            0.76%     2.104GiB / 15.5GiB   13.57%    68.6kB / 16.5kB   218MB / 316MB     88
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     98.17MiB / 15.5GiB   0.62%     66kB / 39.6kB     26MB / 89.7MB     8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     19.32MiB / 15.5GiB   0.12%     15.1kB / 1.76kB   24.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   99.45%    1.026GiB / 15.5GiB   6.62%     754MB / 2.01MB    320MB / 2.3GB     9
+894c51829de4   cachito_threads-cachito-api-1      0.49%     158.4MiB / 15.5GiB   1.00%     76kB / 87.2kB     48.4MB / 147kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         107.58%   3.149GiB / 15.5GiB   20.32%    88.6kB / 74kB     49.4MB / 6.51MB   70
+dcf3763c4940   cachito_threads-nexus-1            0.50%     2.01GiB / 15.5GiB    12.97%    70kB / 16.5kB     218MB / 316MB     88
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     68.36MiB / 15.5GiB   0.43%     70.1kB / 41.8kB   26MB / 89.7MB     8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     14.51MiB / 15.5GiB   0.09%     16.6kB / 1.82kB   24.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   1.06%     888MiB / 15.5GiB     5.60%     754MB / 2.03MB    357MB / 3.05GB    9
+894c51829de4   cachito_threads-cachito-api-1      1.31%     160.8MiB / 15.5GiB   1.01%     87.9kB / 104kB    49.4MB / 156kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.76%     1.621GiB / 15.5GiB   10.46%    97.4kB / 82.7kB   51.2MB / 6.51MB   37
+dcf3763c4940   cachito_threads-nexus-1            78.00%    2.011GiB / 15.5GiB   12.98%    70.7kB / 16.7kB   218MB / 316MB     88
+6e08b5e0ca0a   cachito_threads-db-1               7.96%     86.78MiB / 15.5GiB   0.55%     80.8kB / 51.1kB   28.5MB / 106MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     22.22MiB / 15.5GiB   0.14%     16.6kB / 1.89kB   29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.27%     891.1MiB / 15.5GiB   5.61%     755MB / 2.05MB    358MB / 3.05GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.50%     160.8MiB / 15.5GiB   1.01%     97.4kB / 117kB    49.4MB / 172kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.19%     1.621GiB / 15.5GiB   10.46%    101kB / 86.5kB    51.2MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            70.10%    2.119GiB / 15.5GiB   13.67%    2.09MB / 1.15MB   249MB / 331MB     114
+6e08b5e0ca0a   cachito_threads-db-1               0.01%     87.2MiB / 15.5GiB    0.55%     88.8kB / 58.7kB   28.5MB / 106MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     22.23MiB / 15.5GiB   0.14%     16.7kB / 1.93kB   29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.75%     891.2MiB / 15.5GiB   5.62%     756MB / 2.06MB    358MB / 3.05GB    12
+894c51829de4   cachito_threads-cachito-api-1      1.35%     160.9MiB / 15.5GiB   1.01%     101kB / 121kB     49.4MB / 180kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.23%     1.621GiB / 15.5GiB   10.46%    104kB / 89.8kB    51.2MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            64.20%    2.199GiB / 15.5GiB   14.19%    2.64MB / 1.28MB   249MB / 343MB     115
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     87.32MiB / 15.5GiB   0.55%     91.5kB / 61.1kB   28.5MB / 106MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     22.23MiB / 15.5GiB   0.14%     16.9kB / 2.04kB   29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.87%     891.5MiB / 15.5GiB   5.62%     758MB / 2.09MB    358MB / 3.07GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.43%     160.8MiB / 15.5GiB   1.01%     104kB / 127kB     49.4MB / 188kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.15%     1.621GiB / 15.5GiB   10.46%    108kB / 93.4kB    51.2MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            62.46%    2.235GiB / 15.5GiB   14.42%    6MB / 3.72MB      249MB / 370MB     121
+6e08b5e0ca0a   cachito_threads-db-1               0.14%     86.13MiB / 15.5GiB   0.54%     94.2kB / 63.5kB   28.5MB / 107MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     22.23MiB / 15.5GiB   0.14%     17kB / 2.11kB     29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.53%     875.8MiB / 15.5GiB   5.52%     758MB / 2.11MB   358MB / 3.07GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.49%     160.5MiB / 15.5GiB   1.01%     107kB / 131kB    49.4MB / 197kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.15%     1.622GiB / 15.5GiB   10.47%    112kB / 97.3kB   51.3MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            21.61%    2.28GiB / 15.5GiB    14.71%    7.4MB / 3.89MB   249MB / 386MB     121
+6e08b5e0ca0a   cachito_threads-db-1               0.10%     85.21MiB / 15.5GiB   0.54%     96.9kB / 66kB    28.5MB / 107MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     21.93MiB / 15.5GiB   0.14%     17kB / 2.17kB    29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   1.14%     875.9MiB / 15.5GiB   5.52%     758MB / 2.13MB    358MB / 3.08GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.49%     160.5MiB / 15.5GiB   1.01%     110kB / 136kB     49.4MB / 205kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.12%     1.622GiB / 15.5GiB   10.47%    115kB / 101kB     51.3MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            108.75%   2.322GiB / 15.5GiB   14.98%    9.05MB / 4.2MB    252MB / 416MB     122
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     88.42MiB / 15.5GiB   0.56%     99.6kB / 68.4kB   28.6MB / 112MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     21.93MiB / 15.5GiB   0.14%     17.1kB / 2.24kB   29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.37%     876MiB / 15.5GiB     5.52%     759MB / 2.14MB    358MB / 3.08GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.50%     160.5MiB / 15.5GiB   1.01%     113kB / 141kB     49.4MB / 213kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.15%     1.622GiB / 15.5GiB   10.47%    118kB / 104kB     51.3MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            11.29%    2.365GiB / 15.5GiB   15.26%    10.6MB / 5.37MB   255MB / 433MB     122
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     89.81MiB / 15.5GiB   0.57%     102kB / 70.8kB    28.6MB / 114MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     21.93MiB / 15.5GiB   0.14%     17.2kB / 2.32kB   29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   1.35%     876.1MiB / 15.5GiB   5.52%     760MB / 2.15MB    358MB / 3.08GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.41%     160.5MiB / 15.5GiB   1.01%     116kB / 146kB     49.4MB / 221kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.18%     1.622GiB / 15.5GiB   10.47%    122kB / 108kB     51.3MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            26.08%    2.377GiB / 15.5GiB   15.34%    11.1MB / 5.63MB   257MB / 445MB     122
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     89.81MiB / 15.5GiB   0.57%     105kB / 73.2kB    28.6MB / 114MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.01%     21.93MiB / 15.5GiB   0.14%     17.2kB / 2.39kB   29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   1.40%     876.3MiB / 15.5GiB   5.52%     761MB / 2.17MB    358MB / 3.08GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.48%     160.5MiB / 15.5GiB   1.01%     120kB / 151kB     49.4MB / 229kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.50%     1.622GiB / 15.5GiB   10.47%    126kB / 111kB     51.3MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            10.87%    2.411GiB / 15.5GiB   15.55%    13.5MB / 6.67MB   257MB / 473MB     119
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     89.91MiB / 15.5GiB   0.57%     109kB / 75.7kB    28.6MB / 121MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     21.95MiB / 15.5GiB   0.14%     18.2kB / 2.45kB   29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.24%     860.2MiB / 15.5GiB   5.42%     761MB / 2.18MB    358MB / 3.08GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.57%     160.4MiB / 15.5GiB   1.01%     123kB / 156kB     49.4MB / 238kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.13%     1.622GiB / 15.5GiB   10.47%    130kB / 115kB     51.3MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            20.17%    2.426GiB / 15.5GiB   15.65%    14.4MB / 6.78MB   257MB / 484MB     124
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     88.68MiB / 15.5GiB   0.56%     111kB / 78.1kB    28.6MB / 121MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     21.62MiB / 15.5GiB   0.14%     18.3kB / 2.56kB   29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   1.67%     860.3MiB / 15.5GiB   5.42%     761MB / 2.19MB    358MB / 3.08GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.52%     160.4MiB / 15.5GiB   1.01%     127kB / 161kB     49.4MB / 246kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.36%     1.622GiB / 15.5GiB   10.47%    134kB / 119kB     51.3MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            36.09%    2.438GiB / 15.5GiB   15.73%    15.1MB / 6.89MB   257MB / 502MB     128
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     88.74MiB / 15.5GiB   0.56%     114kB / 80.5kB    28.6MB / 121MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     21.66MiB / 15.5GiB   0.14%     18.3kB / 2.63kB   29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.97%     860.3MiB / 15.5GiB   5.42%     761MB / 2.2MB     358MB / 3.08GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.47%     160.4MiB / 15.5GiB   1.01%     130kB / 166kB     49.4MB / 254kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.13%     1.622GiB / 15.5GiB   10.47%    136kB / 121kB     51.3MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            45.21%    2.461GiB / 15.5GiB   15.88%    16.1MB / 7.07MB   257MB / 515MB     128
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     88.8MiB / 15.5GiB    0.56%     117kB / 82.9kB    28.6MB / 121MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     21.66MiB / 15.5GiB   0.14%     18.5kB / 2.74kB   29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   1.93%     860.5MiB / 15.5GiB   5.42%     771MB / 2.22MB    358MB / 3.08GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.47%     160.4MiB / 15.5GiB   1.01%     133kB / 170kB     49.4MB / 262kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.84%     1.622GiB / 15.5GiB   10.47%    140kB / 125kB     51.3MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            93.51%    2.541GiB / 15.5GiB   16.39%    30.4MB / 17.2MB   257MB / 523MB     128
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     88.8MiB / 15.5GiB    0.56%     119kB / 85.4kB    28.6MB / 121MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     21.68MiB / 15.5GiB   0.14%     18.5kB / 2.74kB   29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.25%     860.7MiB / 15.5GiB   5.42%     782MB / 2.24MB    358MB / 3.1GB     12
+894c51829de4   cachito_threads-cachito-api-1      0.43%     160.4MiB / 15.5GiB   1.01%     136kB / 175kB     49.4MB / 270kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.21%     1.622GiB / 15.5GiB   10.47%    144kB / 129kB     51.3MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            19.83%    2.584GiB / 15.5GiB   16.67%    44MB / 28.4MB     257MB / 537MB     127
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     88.85MiB / 15.5GiB   0.56%     122kB / 87.8kB    28.6MB / 121MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     21.68MiB / 15.5GiB   0.14%     18.6kB / 2.84kB   29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.33%     843.4MiB / 15.5GiB   5.31%     785MB / 2.26MB    358MB / 3.1GB     12
+894c51829de4   cachito_threads-cachito-api-1      0.79%     160.2MiB / 15.5GiB   1.01%     139kB / 180kB     49.4MB / 279kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.17%     1.623GiB / 15.5GiB   10.47%    147kB / 132kB     51.3MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            63.15%    2.57GiB / 15.5GiB    16.58%    48.2MB / 31MB     257MB / 556MB     127
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     88.52MiB / 15.5GiB   0.56%     125kB / 90.2kB    28.6MB / 121MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     21.36MiB / 15.5GiB   0.13%     18.6kB / 2.91kB   29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.70%     843.5MiB / 15.5GiB   5.32%     785MB / 2.27MB    358MB / 3.1GB     12
+894c51829de4   cachito_threads-cachito-api-1      0.51%     160.2MiB / 15.5GiB   1.01%     142kB / 185kB     49.4MB / 287kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.13%     1.622GiB / 15.5GiB   10.47%    151kB / 136kB     51.3MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            15.12%    2.546GiB / 15.5GiB   16.43%    49MB / 31.3MB     257MB / 637MB     145
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     88.52MiB / 15.5GiB   0.56%     127kB / 92.6kB    28.6MB / 121MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.01%     21.38MiB / 15.5GiB   0.13%     18.7kB / 2.98kB   29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.25%     843.7MiB / 15.5GiB   5.32%     786MB / 2.29MB    358MB / 3.1GB     12
+894c51829de4   cachito_threads-cachito-api-1      0.43%     160.2MiB / 15.5GiB   1.01%     145kB / 190kB     49.4MB / 295kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.53%     1.623GiB / 15.5GiB   10.47%    154kB / 139kB     51.3MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            14.66%    2.515GiB / 15.5GiB   16.23%    51.4MB / 31.9MB   257MB / 650MB     146
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     88.54MiB / 15.5GiB   0.56%     130kB / 95.1kB    28.6MB / 121MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.01%     21.38MiB / 15.5GiB   0.13%     18.8kB / 3.08kB   29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.13%     843.8MiB / 15.5GiB   5.32%     786MB / 2.29MB    358MB / 3.1GB     12
+894c51829de4   cachito_threads-cachito-api-1      0.44%     160.2MiB / 15.5GiB   1.01%     149kB / 195kB     49.4MB / 303kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.18%     1.622GiB / 15.5GiB   10.47%    158kB / 143kB     51.3MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            104.73%   2.777GiB / 15.5GiB   17.91%    66.5MB / 32.2MB   257MB / 687MB     146
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     88.54MiB / 15.5GiB   0.56%     133kB / 97.5kB    28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     21.38MiB / 15.5GiB   0.13%     18.8kB / 3.13kB   29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.59%     843.8MiB / 15.5GiB   5.32%     787MB / 2.3MB     358MB / 3.11GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.45%     160.2MiB / 15.5GiB   1.01%     153kB / 200kB     49.4MB / 311kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.20%     1.622GiB / 15.5GiB   10.47%    162kB / 146kB     51.3MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            58.12%    3.311GiB / 15.5GiB   21.36%    74.9MB / 33.1MB   257MB / 707MB     147
+6e08b5e0ca0a   cachito_threads-db-1               0.01%     88.54MiB / 15.5GiB   0.56%     136kB / 99.9kB    28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     21.38MiB / 15.5GiB   0.13%     19.8kB / 3.19kB   29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.66%     563.8MiB / 15.5GiB   3.55%     787MB / 2.32MB    358MB / 3.11GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.44%     155.2MiB / 15.5GiB   0.98%     156kB / 205kB     49.4MB / 319kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.15%     1.617GiB / 15.5GiB   10.43%    165kB / 150kB     52.7MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            54.98%    2.939GiB / 15.5GiB   18.96%    77.5MB / 33.6MB   258MB / 770MB     147
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     66.41MiB / 15.5GiB   0.42%     139kB / 102kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     16.43MiB / 15.5GiB   0.10%     19.9kB / 3.3kB    29.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.55%     564.1MiB / 15.5GiB   3.55%     789MB / 2.35MB    358MB / 3.11GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.46%     155.2MiB / 15.5GiB   0.98%     160kB / 210kB     49.4MB / 328kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.37%     1.617GiB / 15.5GiB   10.43%    169kB / 154kB     52.7MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            95.18%    2.971GiB / 15.5GiB   19.17%    80.4MB / 35.5MB   258MB / 808MB     128
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     66.57MiB / 15.5GiB   0.42%     142kB / 105kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     25.71MiB / 15.5GiB   0.16%     20.5kB / 3.41kB   42.7MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.47%     564.4MiB / 15.5GiB   3.56%     791MB / 2.4MB     358MB / 3.11GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.56%     155.2MiB / 15.5GiB   0.98%     163kB / 214kB     49.4MB / 336kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.17%     1.617GiB / 15.5GiB   10.43%    173kB / 157kB     52.7MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            47.87%    3.078GiB / 15.5GiB   19.86%    85.4MB / 37.7MB   258MB / 846MB     135
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     66.57MiB / 15.5GiB   0.42%     145kB / 107kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     25.71MiB / 15.5GiB   0.16%     20.6kB / 3.47kB   42.7MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   1.65%     564.9MiB / 15.5GiB   3.56%     793MB / 2.44MB    358MB / 3.11GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.50%     155.2MiB / 15.5GiB   0.98%     166kB / 219kB     49.4MB / 344kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.16%     1.617GiB / 15.5GiB   10.43%    176kB / 161kB     52.7MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            49.07%    3.178GiB / 15.5GiB   20.50%    89MB / 39.4MB     258MB / 893MB     136
+6e08b5e0ca0a   cachito_threads-db-1               0.52%     66.63MiB / 15.5GiB   0.42%     148kB / 110kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.01%     25.71MiB / 15.5GiB   0.16%     20.6kB / 3.47kB   42.7MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   1.39%     565.1MiB / 15.5GiB   3.56%     797MB / 2.48MB    358MB / 3.11GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.47%     155.2MiB / 15.5GiB   0.98%     169kB / 224kB     49.4MB / 352kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.17%     1.617GiB / 15.5GiB   10.43%    180kB / 164kB     52.7MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            40.20%    3.234GiB / 15.5GiB   20.86%    95MB / 43.9MB     259MB / 935MB     135
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     66.63MiB / 15.5GiB   0.42%     150kB / 112kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     25.71MiB / 15.5GiB   0.16%     20.7kB / 3.58kB   42.7MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   3.27%     504.1MiB / 15.5GiB   3.18%     801MB / 2.52MB    358MB / 3.12GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.76%     153.5MiB / 15.5GiB   0.97%     172kB / 229kB     49.4MB / 360kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.23%     1.56GiB / 15.5GiB    10.06%    183kB / 168kB     53.9MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            118.76%   3.107GiB / 15.5GiB   20.05%    100MB / 48MB      267MB / 973MB     138
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     64.24MiB / 15.5GiB   0.40%     153kB / 114kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.01%     23.54MiB / 15.5GiB   0.15%     20.8kB / 3.69kB   42.7MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   2.76%     504.4MiB / 15.5GiB   3.18%     803MB / 2.55MB    358MB / 3.12GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.56%     153.5MiB / 15.5GiB   0.97%     175kB / 234kB     49.4MB / 369kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.17%     1.56GiB / 15.5GiB    10.06%    186kB / 171kB     53.9MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            48.90%    3.041GiB / 15.5GiB   19.62%    104MB / 49.6MB    269MB / 1.03GB    138
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     65.28MiB / 15.5GiB   0.41%     156kB / 117kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     23.54MiB / 15.5GiB   0.15%     20.9kB / 3.76kB   42.7MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   2.58%     504.7MiB / 15.5GiB   3.18%     806MB / 2.59MB   358MB / 3.12GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.54%     153.5MiB / 15.5GiB   0.97%     178kB / 239kB    49.4MB / 377kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.14%     1.559GiB / 15.5GiB   10.06%    190kB / 175kB    53.9MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            91.02%    2.973GiB / 15.5GiB   19.18%    110MB / 52.6MB   271MB / 1.06GB    144
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     65.31MiB / 15.5GiB   0.41%     158kB / 119kB    28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     23.55MiB / 15.5GiB   0.15%     21kB / 3.82kB    42.7MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   1.76%     505MiB / 15.5GiB     3.18%     807MB / 2.63MB    358MB / 3.13GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.49%     153.5MiB / 15.5GiB   0.97%     182kB / 244kB     49.4MB / 385kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.13%     1.559GiB / 15.5GiB   10.06%    195kB / 179kB     53.9MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            199.27%   2.92GiB / 15.5GiB    18.84%    114MB / 54.1MB    271MB / 1.12GB    143
+6e08b5e0ca0a   cachito_threads-db-1               0.01%     65.36MiB / 15.5GiB   0.41%     162kB / 122kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     23.55MiB / 15.5GiB   0.15%     21.9kB / 3.89kB   42.7MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   2.04%     505.4MiB / 15.5GiB   3.18%     810MB / 2.67MB   358MB / 3.13GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.58%     153.5MiB / 15.5GiB   0.97%     186kB / 249kB    49.4MB / 393kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.53%     1.559GiB / 15.5GiB   10.06%    198kB / 182kB    53.9MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            148.44%   2.848GiB / 15.5GiB   18.38%    119MB / 57.1MB   271MB / 1.16GB    144
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     65.36MiB / 15.5GiB   0.41%     165kB / 124kB    28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     23.55MiB / 15.5GiB   0.15%     22kB / 3.97kB    42.7MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   2.80%     505.9MiB / 15.5GiB   3.19%     812MB / 2.72MB    358MB / 3.13GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.75%     153.5MiB / 15.5GiB   0.97%     189kB / 253kB     49.4MB / 401kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.23%     1.56GiB / 15.5GiB    10.07%    201kB / 186kB     54.9MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            47.39%    2.946GiB / 15.5GiB   19.01%    122MB / 58.9MB    275MB / 1.25GB    144
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     65.36MiB / 15.5GiB   0.41%     167kB / 127kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     23.55MiB / 15.5GiB   0.15%     22.1kB / 4.04kB   42.7MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   1.52%     506.1MiB / 15.5GiB   3.19%     812MB / 2.76MB   358MB / 3.13GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.77%     153.5MiB / 15.5GiB   0.97%     192kB / 258kB    49.4MB / 410kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.11%     1.56GiB / 15.5GiB    10.07%    205kB / 189kB    54.9MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            118.19%   2.903GiB / 15.5GiB   18.73%    126MB / 59.7MB   275MB / 1.29GB    144
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     65.41MiB / 15.5GiB   0.41%     170kB / 129kB    28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     23.55MiB / 15.5GiB   0.15%     22.1kB / 4.1kB   42.7MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   1.73%     506.5MiB / 15.5GiB   3.19%     818MB / 2.8MB     358MB / 3.14GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.54%     153.5MiB / 15.5GiB   0.97%     195kB / 263kB     49.4MB / 418kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.47%     1.56GiB / 15.5GiB    10.07%    208kB / 193kB     54.9MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            65.94%    2.888GiB / 15.5GiB   18.63%    134MB / 65.3MB    275MB / 1.33GB    142
+6e08b5e0ca0a   cachito_threads-db-1               0.01%     65.41MiB / 15.5GiB   0.41%     173kB / 131kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     25.78MiB / 15.5GiB   0.16%     22.2kB / 4.17kB   44.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   2.84%     506.8MiB / 15.5GiB   3.19%     821MB / 2.84MB    358MB / 3.14GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.75%     153.5MiB / 15.5GiB   0.97%     198kB / 268kB     49.4MB / 426kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.16%     1.561GiB / 15.5GiB   10.07%    212kB / 196kB     54.9MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            240.18%   2.928GiB / 15.5GiB   18.89%    139MB / 68.7MB    276MB / 1.38GB    129
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     65.47MiB / 15.5GiB   0.41%     175kB / 134kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     25.78MiB / 15.5GiB   0.16%     22.3kB / 4.24kB   44.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.30%     507.1MiB / 15.5GiB   3.20%     825MB / 2.88MB    358MB / 3.14GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.49%     153.5MiB / 15.5GiB   0.97%     201kB / 273kB     49.4MB / 434kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         50.65%    2.526GiB / 15.5GiB   16.30%    215kB / 200kB     54.9MB / 7.15MB   41
+dcf3763c4940   cachito_threads-nexus-1            8.85%     3.061GiB / 15.5GiB   19.75%    145MB / 72.5MB    276MB / 1.43GB    129
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     65.47MiB / 15.5GiB   0.41%     178kB / 136kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     25.78MiB / 15.5GiB   0.16%     22.4kB / 4.39kB   44.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   1.80%     466.1MiB / 15.5GiB   2.94%     828MB / 2.93MB    358MB / 3.15GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.47%     152.2MiB / 15.5GiB   0.96%     204kB / 278kB     49.4MB / 442kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.15%     1.432GiB / 15.5GiB   9.24%     219kB / 204kB     54.9MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            60.47%    3.037GiB / 15.5GiB   19.60%    149MB / 75.6MB    276MB / 1.49GB    129
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     63.79MiB / 15.5GiB   0.40%     181kB / 139kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     23.96MiB / 15.5GiB   0.15%     22.4kB / 4.39kB   44.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   2.36%     466.5MiB / 15.5GiB   2.94%     829MB / 2.96MB    358MB / 3.15GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.92%     152.2MiB / 15.5GiB   0.96%     207kB / 283kB     49.4MB / 451kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.19%     1.431GiB / 15.5GiB   9.24%     222kB / 206kB     54.9MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            71.36%    3.085GiB / 15.5GiB   19.91%    154MB / 77.2MB    276MB / 1.54GB    129
+6e08b5e0ca0a   cachito_threads-db-1               0.01%     63.8MiB / 15.5GiB    0.40%     183kB / 141kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.02%     23.96MiB / 15.5GiB   0.15%     22.5kB / 4.45kB   44.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.50%     466.7MiB / 15.5GiB   2.94%     839MB / 3MB       358MB / 3.15GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.57%     152.2MiB / 15.5GiB   0.96%     211kB / 288kB     49.4MB / 459kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.13%     1.431GiB / 15.5GiB   9.24%     225kB / 210kB     54.9MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            15.53%    3.109GiB / 15.5GiB   20.06%    164MB / 86.4MB    276MB / 1.58GB    130
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     63.8MiB / 15.5GiB    0.40%     186kB / 144kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     23.96MiB / 15.5GiB   0.15%     22.5kB / 4.52kB   44.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   1.60%     467.2MiB / 15.5GiB   2.94%     845MB / 3.04MB    358MB / 3.16GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.75%     152.2MiB / 15.5GiB   0.96%     215kB / 293kB     49.4MB / 467kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.56%     1.432GiB / 15.5GiB   9.24%     230kB / 214kB     54.9MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            55.14%    3.272GiB / 15.5GiB   21.11%    175MB / 92.7MB    276MB / 1.63GB    130
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     63.98MiB / 15.5GiB   0.40%     190kB / 146kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     23.96MiB / 15.5GiB   0.15%     23.5kB / 4.58kB   44.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O        PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   2.38%     440.9MiB / 15.5GiB   2.78%     849MB / 3.09MB    358MB / 3.17GB   12
+894c51829de4   cachito_threads-cachito-api-1      0.72%     151.6MiB / 15.5GiB   0.96%     221kB / 302kB     49.4MB / 483kB   3
+3cb718cedcb7   cachito_threads-rabbitmq-1         56.93%    1.354GiB / 15.5GiB   8.74%     234kB / 218kB     56MB / 7.15MB    37
+dcf3763c4940   cachito_threads-nexus-1            72.24%    3.285GiB / 15.5GiB   21.19%    182MB / 96.9MB    276MB / 1.69GB   128
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     61.61MiB / 15.5GiB   0.39%     195kB / 151kB     28.6MB / 122MB   8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     23.43MiB / 15.5GiB   0.15%     23.6kB / 4.73kB   44.5MB / 0B      14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O        PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   2.03%     441.3MiB / 15.5GiB   2.78%     851MB / 3.13MB    358MB / 3.19GB   12
+894c51829de4   cachito_threads-cachito-api-1      0.63%     151.6MiB / 15.5GiB   0.96%     224kB / 307kB     49.4MB / 492kB   3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.14%     1.354GiB / 15.5GiB   8.74%     237kB / 221kB     56MB / 7.15MB    37
+dcf3763c4940   cachito_threads-nexus-1            55.53%    3.312GiB / 15.5GiB   21.37%    185MB / 98.8MB    276MB / 1.76GB   127
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     62.62MiB / 15.5GiB   0.39%     198kB / 153kB     28.6MB / 122MB   8
+e4f0767f6d62   cachito_threads-athens-1           0.01%     23.43MiB / 15.5GiB   0.15%     23.6kB / 4.73kB   44.5MB / 0B      14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O        PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   2.17%     441.6MiB / 15.5GiB   2.78%     856MB / 3.16MB   358MB / 3.19GB   12
+894c51829de4   cachito_threads-cachito-api-1      0.52%     151.6MiB / 15.5GiB   0.96%     227kB / 312kB    49.4MB / 500kB   3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.13%     1.354GiB / 15.5GiB   8.74%     240kB / 224kB    56MB / 7.15MB    37
+dcf3763c4940   cachito_threads-nexus-1            99.11%    3.312GiB / 15.5GiB   21.37%    194MB / 105MB    277MB / 1.81GB   127
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     62.62MiB / 15.5GiB   0.39%     201kB / 156kB    28.6MB / 122MB   8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     23.43MiB / 15.5GiB   0.15%     23.7kB / 4.8kB   44.5MB / 0B      14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O        PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.78%     442MiB / 15.5GiB     2.78%     871MB / 3.22MB    358MB / 3.2GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.48%     151.6MiB / 15.5GiB   0.96%     230kB / 317kB     49.4MB / 508kB   3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.65%     1.354GiB / 15.5GiB   8.74%     244kB / 228kB     56MB / 7.15MB    37
+dcf3763c4940   cachito_threads-nexus-1            16.84%    3.59GiB / 15.5GiB    23.17%    211MB / 119MB     287MB / 1.87GB   126
+6e08b5e0ca0a   cachito_threads-db-1               0.48%     62.75MiB / 15.5GiB   0.40%     203kB / 158kB     28.6MB / 122MB   8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     23.46MiB / 15.5GiB   0.15%     23.8kB / 4.87kB   44.5MB / 0B      14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O        PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   1.26%     442.5MiB / 15.5GiB   2.79%     876MB / 3.26MB    358MB / 3.22GB   12
+894c51829de4   cachito_threads-cachito-api-1      0.48%     151.6MiB / 15.5GiB   0.96%     233kB / 322kB     49.4MB / 516kB   3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.20%     1.354GiB / 15.5GiB   8.74%     247kB / 232kB     56MB / 7.15MB    37
+dcf3763c4940   cachito_threads-nexus-1            42.42%    3.86GiB / 15.5GiB    24.90%    221MB / 125MB     287MB / 1.9GB    126
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     62.75MiB / 15.5GiB   0.40%     206kB / 160kB     28.6MB / 122MB   8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     23.46MiB / 15.5GiB   0.15%     23.9kB / 5.02kB   44.5MB / 0B      14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   32.66%    380.5MiB / 15.5GiB   2.40%     879MB / 3.78MB   359MB / 3.22GB    7
+894c51829de4   cachito_threads-cachito-api-1      0.67%     150.3MiB / 15.5GiB   0.95%     236kB / 327kB    49.4MB / 524kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.37%     1.174GiB / 15.5GiB   7.57%     251kB / 235kB    57.4MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            249.94%   3.544GiB / 15.5GiB   22.86%    223MB / 128MB    298MB / 1.94GB    140
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     58.01MiB / 15.5GiB   0.37%     209kB / 163kB    28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     21.07MiB / 15.5GiB   0.13%     24kB / 5.08kB    44.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.13%     384.9MiB / 15.5GiB   2.43%     881MB / 4.17MB   361MB / 3.22GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.46%     150.4MiB / 15.5GiB   0.95%     251kB / 346kB    49.4MB / 541kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.15%     1.174GiB / 15.5GiB   7.57%     255kB / 239kB    57.4MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            37.62%    3.614GiB / 15.5GiB   23.32%    225MB / 130MB    304MB / 2.01GB    141
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     60.38MiB / 15.5GiB   0.38%     222kB / 175kB    28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     21.07MiB / 15.5GiB   0.13%     24kB / 5.15kB    44.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   2.27%     385.6MiB / 15.5GiB   2.43%     885MB / 4.21MB   361MB / 3.22GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.43%     150.4MiB / 15.5GiB   0.95%     258kB / 356kB    49.4MB / 553kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.19%     1.174GiB / 15.5GiB   7.58%     258kB / 242kB    57.4MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            30.97%    3.937GiB / 15.5GiB   25.40%    229MB / 134MB    318MB / 2.06GB    140
+6e08b5e0ca0a   cachito_threads-db-1               0.01%     60.39MiB / 15.5GiB   0.38%     228kB / 180kB    28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     21.07MiB / 15.5GiB   0.13%     24kB / 5.15kB    44.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   3.58%     329.6MiB / 15.5GiB   2.08%     889MB / 4.26MB    361MB / 3.23GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.89%     148.1MiB / 15.5GiB   0.93%     262kB / 361kB     49.4MB / 561kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.16%     1.077GiB / 15.5GiB   6.95%     262kB / 246kB     57.4MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            116.57%   3.641GiB / 15.5GiB   23.49%    234MB / 137MB     318MB / 2.11GB    139
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     54.07MiB / 15.5GiB   0.34%     232kB / 183kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     18.47MiB / 15.5GiB   0.12%     25.4kB / 5.21kB   44.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   1.77%     303.7MiB / 15.5GiB   1.91%     890MB / 4.3MB     361MB / 3.23GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.64%     146.9MiB / 15.5GiB   0.93%     266kB / 366kB     49.4MB / 569kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.28%     1.028GiB / 15.5GiB   6.63%     266kB / 250kB     57.5MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            34.21%    3.529GiB / 15.5GiB   22.77%    236MB / 138MB     319MB / 2.15GB    139
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     51.22MiB / 15.5GiB   0.32%     235kB / 186kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     17.5MiB / 15.5GiB    0.11%     25.5kB / 5.36kB   44.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.75%     252.9MiB / 15.5GiB   1.59%     896MB / 4.35MB    361MB / 3.24GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.85%     135.9MiB / 15.5GiB   0.86%     269kB / 372kB     49.4MB / 578kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.20%     867.7MiB / 15.5GiB   5.47%     270kB / 253kB     59.2MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            179.12%   3.254GiB / 15.5GiB   21.00%    243MB / 145MB     320MB / 2.2GB     139
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     45.62MiB / 15.5GiB   0.29%     237kB / 188kB     28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     15.14MiB / 15.5GiB   0.10%     25.6kB / 5.43kB   44.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   5.19%     253.6MiB / 15.5GiB   1.60%     908MB / 4.4MB    361MB / 3.24GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.69%     135.9MiB / 15.5GiB   0.86%     273kB / 377kB    49.4MB / 586kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.84%     867.6MiB / 15.5GiB   5.47%     273kB / 256kB    59.2MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            115.46%   3.323GiB / 15.5GiB   21.44%    256MB / 157MB    320MB / 2.27GB    140
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     45.95MiB / 15.5GiB   0.29%     240kB / 191kB    28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     15.14MiB / 15.5GiB   0.10%     25.6kB / 5.5kB   44.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   41.84%    256.4MiB / 15.5GiB   1.62%     910MB / 4.8MB    363MB / 3.25GB    7
+894c51829de4   cachito_threads-cachito-api-1      0.71%     135.9MiB / 15.5GiB   0.86%     276kB / 382kB    49.4MB / 594kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.25%     867.6MiB / 15.5GiB   5.47%     277kB / 260kB    59.2MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            127.19%   3.362GiB / 15.5GiB   21.69%    257MB / 159MB    322MB / 2.29GB    139
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     45.95MiB / 15.5GiB   0.29%     243kB / 194kB    28.6MB / 122MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     15.14MiB / 15.5GiB   0.10%     25.6kB / 5.5kB   44.5MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   1.42%     257.1MiB / 15.5GiB   1.62%     910MB / 4.83MB    363MB / 3.25GB    12
+894c51829de4   cachito_threads-cachito-api-1      0.63%     135.9MiB / 15.5GiB   0.86%     287kB / 396kB     49.5MB / 610kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.17%     867.7MiB / 15.5GiB   5.47%     280kB / 264kB     59.2MB / 7.15MB   37
+dcf3763c4940   cachito_threads-nexus-1            40.89%    3.395GiB / 15.5GiB   21.90%    258MB / 159MB     322MB / 2.31GB    139
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     46.2MiB / 15.5GiB    0.29%     251kB / 203kB     28.6MB / 125MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     23.05MiB / 15.5GiB   0.15%     25.7kB / 5.56kB   47.8MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   99.84%    297.3MiB / 15.5GiB   1.87%     912MB / 6.51MB    461MB / 3.3GB     7
+894c51829de4   cachito_threads-cachito-api-1      0.56%     145.2MiB / 15.5GiB   0.91%     1.9MB / 3.59MB    52.6MB / 643kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.20%     867.8MiB / 15.5GiB   5.47%     285kB / 269kB     59.2MB / 7.16MB   37
+dcf3763c4940   cachito_threads-nexus-1            0.66%     3.448GiB / 15.5GiB   22.25%    261MB / 161MB     324MB / 2.35GB    139
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     49.63MiB / 15.5GiB   0.31%     3.43MB / 227kB    28.7MB / 126MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     23.05MiB / 15.5GiB   0.15%     25.9kB / 5.71kB   47.8MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   99.86%    406.5MiB / 15.5GiB   2.56%     912MB / 6.51MB    826MB / 3.61GB    7
+894c51829de4   cachito_threads-cachito-api-1      0.54%     134.1MiB / 15.5GiB   0.85%     1.9MB / 3.59MB    52.6MB / 651kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.18%     703.1MiB / 15.5GiB   4.43%     288kB / 272kB     59.9MB / 7.16MB   37
+dcf3763c4940   cachito_threads-nexus-1            0.60%     3.215GiB / 15.5GiB   20.74%    261MB / 161MB     327MB / 2.38GB    136
+6e08b5e0ca0a   cachito_threads-db-1               0.53%     45.9MiB / 15.5GiB    0.29%     3.43MB / 230kB    28.7MB / 126MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     20.02MiB / 15.5GiB   0.13%     25.9kB / 5.78kB   47.8MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   91.88%    560.6MiB / 15.5GiB   3.53%     912MB / 6.52MB   1.12GB / 4GB      7
+894c51829de4   cachito_threads-cachito-api-1      0.71%     134.1MiB / 15.5GiB   0.85%     1.9MB / 3.6MB    52.6MB / 659kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.98%     702.9MiB / 15.5GiB   4.43%     292kB / 276kB    59.9MB / 7.16MB   37
+dcf3763c4940   cachito_threads-nexus-1            0.64%     3.215GiB / 15.5GiB   20.74%    261MB / 161MB    327MB / 2.38GB    135
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     45.9MiB / 15.5GiB    0.29%     3.43MB / 233kB   28.7MB / 126MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     20.02MiB / 15.5GiB   0.13%     26kB / 5.84kB    47.8MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   95.67%    771.2MiB / 15.5GiB   4.86%     912MB / 6.52MB    1.32GB / 4GB      7
+894c51829de4   cachito_threads-cachito-api-1      0.68%     134.1MiB / 15.5GiB   0.85%     1.91MB / 3.6MB    52.6MB / 668kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.15%     703.2MiB / 15.5GiB   4.43%     295kB / 279kB     59.9MB / 7.16MB   37
+dcf3763c4940   cachito_threads-nexus-1            0.59%     3.215GiB / 15.5GiB   20.74%    261MB / 161MB     327MB / 2.38GB    135
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     45.92MiB / 15.5GiB   0.29%     3.44MB / 236kB    28.7MB / 126MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     20.02MiB / 15.5GiB   0.13%     26.1kB / 5.91kB   47.8MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+b129c0206ab3   cachito_threads-cachito-worker-1   0.07%     1.02GiB / 15.5GiB    6.58%     913MB / 6.53MB    1.51GB / 4.16GB   7
+894c51829de4   cachito_threads-cachito-api-1      0.51%     137.8MiB / 15.5GiB   0.87%     1.93MB / 4.53MB   53.5MB / 705kB    3
+3cb718cedcb7   cachito_threads-rabbitmq-1         0.62%     697.7MiB / 15.5GiB   4.40%     300kB / 283kB     60MB / 7.43MB     37
+dcf3763c4940   cachito_threads-nexus-1            0.66%     3.176GiB / 15.5GiB   20.49%    261MB / 161MB     327MB / 2.38GB    135
+6e08b5e0ca0a   cachito_threads-db-1               0.00%     45.38MiB / 15.5GiB   0.29%     3.45MB / 251kB    28.7MB / 126MB    8
+e4f0767f6d62   cachito_threads-athens-1           0.00%     19.59MiB / 15.5GiB   0.12%     26.9kB / 5.91kB   47.8MB / 0B       14

@@ -1,0 +1,672 @@
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   97.34%    421.1MiB / 15.5GiB   2.65%     33.7kB / 64.4kB   373MB / 67.8MB    7
+088cb4583de3   cachito_asyncio-cachito-api-1      0.43%     158.4MiB / 15.5GiB   1.00%     37.6kB / 38kB     24.4MB / 115kB    3
+60368a64c337   cachito_asyncio-nexus-1            0.74%     1.954GiB / 15.5GiB   12.61%    61.8kB / 16.7kB   208MB / 354MB     106
+24a20d4f4018   cachito_asyncio-db-1               0.02%     31.25MiB / 15.5GiB   0.20%     22.4kB / 15.7kB   20.5MB / 76.4MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.32%     1.607GiB / 15.5GiB   10.37%    25.8kB / 17.3kB   36.9MB / 1.56MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     27.91MiB / 15.5GiB   0.18%     7.06kB / 696B     31.3MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   97.93%    809MiB / 15.5GiB     5.10%     37.8kB / 68.2kB   797MB / 1.25GB    7
+088cb4583de3   cachito_asyncio-cachito-api-1      0.53%     154.2MiB / 15.5GiB   0.97%     37.9kB / 38.1kB   24.4MB / 115kB    3
+60368a64c337   cachito_asyncio-nexus-1            1.17%     1.911GiB / 15.5GiB   12.33%    62.1kB / 16.7kB   209MB / 354MB     105
+24a20d4f4018   cachito_asyncio-db-1               0.02%     37.58MiB / 15.5GiB   0.24%     22.7kB / 15.7kB   30.9MB / 76.4MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.13%     1.605GiB / 15.5GiB   10.35%    29.2kB / 20.6kB   38.6MB / 1.56MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     25MiB / 15.5GiB      0.16%     7.3kB / 762B      31.3MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.47%     516.4MiB / 15.5GiB   3.25%     1.03MB / 89.8kB   819MB / 1.54GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.44%     149.6MiB / 15.5GiB   0.94%     56kB / 62.6kB     27.9MB / 127kB    3
+60368a64c337   cachito_asyncio-nexus-1            132.16%   2.035GiB / 15.5GiB   13.13%    1.48MB / 895kB    232MB / 374MB     124
+24a20d4f4018   cachito_asyncio-db-1               0.03%     36.27MiB / 15.5GiB   0.23%     38.7kB / 30.1kB   35.9MB / 76.4MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.24%     1.612GiB / 15.5GiB   10.40%    38.5kB / 29.9kB   54.5MB / 1.58MB   37
+2e052d829465   cachito_asyncio-athens-1           0.09%     18.56MiB / 15.5GiB   0.12%     7.42kB / 762B     31.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.46%     516.4MiB / 15.5GiB   3.25%     1.18MB / 103kB    819MB / 1.54GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.65%     149.9MiB / 15.5GiB   0.94%     59.3kB / 67.7kB   28.3MB / 135kB    3
+60368a64c337   cachito_asyncio-nexus-1            68.13%    2.083GiB / 15.5GiB   13.44%    2.21MB / 1.18MB   232MB / 385MB     116
+24a20d4f4018   cachito_asyncio-db-1               0.03%     45.12MiB / 15.5GiB   0.28%     41.4kB / 32.5kB   48.3MB / 76.4MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.17%     1.612GiB / 15.5GiB   10.40%    41.7kB / 33.2kB   54.5MB / 1.58MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     18.56MiB / 15.5GiB   0.12%     7.53kB / 870B     31.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.31%     516.4MiB / 15.5GiB   3.25%     1.28MB / 117kB    819MB / 1.54GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.51%     149.9MiB / 15.5GiB   0.94%     62.4kB / 72.5kB   28.3MB / 143kB    3
+60368a64c337   cachito_asyncio-nexus-1            27.14%    2.11GiB / 15.5GiB    13.61%    2.71MB / 1.31MB   234MB / 408MB     117
+24a20d4f4018   cachito_asyncio-db-1               0.03%     45.2MiB / 15.5GiB    0.28%     44.1kB / 34.9kB   48.3MB / 76.4MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.20%     1.612GiB / 15.5GiB   10.40%    44.9kB / 36.5kB   54.5MB / 1.58MB   37
+2e052d829465   cachito_asyncio-athens-1           0.01%     18.56MiB / 15.5GiB   0.12%     7.59kB / 936B     31.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.30%     517.3MiB / 15.5GiB   3.26%     3.61MB / 135kB    819MB / 1.55GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.73%     149.9MiB / 15.5GiB   0.94%     65.7kB / 77.6kB   28.3MB / 152kB    3
+60368a64c337   cachito_asyncio-nexus-1            84.90%    2.163GiB / 15.5GiB   13.96%    5.65MB / 3.67MB   234MB / 416MB     120
+24a20d4f4018   cachito_asyncio-db-1               0.02%     45.21MiB / 15.5GiB   0.28%     46.8kB / 37.4kB   48.3MB / 76.4MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.12%     1.612GiB / 15.5GiB   10.40%    48.4kB / 40.1kB   54.5MB / 1.58MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     18.57MiB / 15.5GiB   0.12%     7.66kB / 1kB      31.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.46%     517.4MiB / 15.5GiB   3.26%     3.69MB / 149kB    819MB / 1.55GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.44%     149.9MiB / 15.5GiB   0.94%     69.9kB / 82.4kB   28.3MB / 160kB    3
+60368a64c337   cachito_asyncio-nexus-1            47.91%    2.196GiB / 15.5GiB   14.17%    6.26MB / 3.76MB   234MB / 437MB     120
+24a20d4f4018   cachito_asyncio-db-1               0.00%     46.46MiB / 15.5GiB   0.29%     50.5kB / 39.8kB   48.3MB / 76.5MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         1.04%     1.613GiB / 15.5GiB   10.41%    53.3kB / 44kB     54.5MB / 1.58MB   37
+2e052d829465   cachito_asyncio-athens-1           0.01%     18.57MiB / 15.5GiB   0.12%     8.85kB / 1.15kB   31.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.29%     445.2MiB / 15.5GiB   2.81%     3.78MB / 164kB    820MB / 1.55GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.45%     143.5MiB / 15.5GiB   0.90%     73kB / 87.2kB     28.7MB / 168kB    3
+60368a64c337   cachito_asyncio-nexus-1            58.91%    2.199GiB / 15.5GiB   14.19%    7.41MB / 3.9MB    234MB / 451MB     121
+24a20d4f4018   cachito_asyncio-db-1               0.01%     41.85MiB / 15.5GiB   0.26%     53.3kB / 42.2kB   48.3MB / 76.5MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.17%     1.581GiB / 15.5GiB   10.20%    56.6kB / 47.3kB   54.7MB / 1.58MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     16.39MiB / 15.5GiB   0.10%     8.98kB / 1.22kB   31.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.28%     445.3MiB / 15.5GiB   2.81%     3.91MB / 177kB    820MB / 1.55GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.45%     143.6MiB / 15.5GiB   0.90%     76.1kB / 92.1kB   29.3MB / 176kB    3
+60368a64c337   cachito_asyncio-nexus-1            44.37%    2.233GiB / 15.5GiB   14.41%    8.23MB / 4.04MB   235MB / 464MB     121
+24a20d4f4018   cachito_asyncio-db-1               0.00%     43.28MiB / 15.5GiB   0.27%     56kB / 44.7kB     48.3MB / 76.5MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.52%     1.582GiB / 15.5GiB   10.20%    59.8kB / 50.6kB   54.7MB / 1.58MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     16.39MiB / 15.5GiB   0.10%     9.03kB / 1.26kB   31.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.26%     445.4MiB / 15.5GiB   2.81%     5.05MB / 195kB    820MB / 1.55GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.44%     143.6MiB / 15.5GiB   0.90%     79.2kB / 96.9kB   29.3MB / 184kB    3
+60368a64c337   cachito_asyncio-nexus-1            35.26%    2.253GiB / 15.5GiB   14.53%    10.1MB / 5.19MB   235MB / 478MB     121
+24a20d4f4018   cachito_asyncio-db-1               0.00%     43.28MiB / 15.5GiB   0.27%     58.6kB / 47.1kB   48.3MB / 76.5MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.15%     1.582GiB / 15.5GiB   10.20%    63.6kB / 54.5kB   54.7MB / 1.58MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     16.39MiB / 15.5GiB   0.10%     9.09kB / 1.33kB   31.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.28%     445.4MiB / 15.5GiB   2.81%     5.34MB / 207kB    820MB / 1.55GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.63%     143.6MiB / 15.5GiB   0.90%     82.6kB / 102kB    29.3MB / 193kB    3
+60368a64c337   cachito_asyncio-nexus-1            22.68%    2.275GiB / 15.5GiB   14.68%    10.9MB / 5.51MB   237MB / 488MB     119
+24a20d4f4018   cachito_asyncio-db-1               0.01%     43.31MiB / 15.5GiB   0.27%     61.3kB / 49.5kB   48.3MB / 76.5MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.90%     1.582GiB / 15.5GiB   10.20%    67.1kB / 58kB     54.7MB / 1.58MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     17.67MiB / 15.5GiB   0.11%     9.24kB / 1.48kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.51%     445.6MiB / 15.5GiB   2.81%     6.4MB / 222kB     820MB / 1.55GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.55%     143.6MiB / 15.5GiB   0.90%     85.7kB / 107kB    29.3MB / 201kB    3
+60368a64c337   cachito_asyncio-nexus-1            45.28%    2.309GiB / 15.5GiB   14.90%    12.8MB / 6.6MB    237MB / 508MB     119
+24a20d4f4018   cachito_asyncio-db-1               0.00%     43.31MiB / 15.5GiB   0.27%     64kB / 51.9kB     48.3MB / 76.5MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.15%     1.582GiB / 15.5GiB   10.21%    70.4kB / 61.4kB   54.7MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     17.67MiB / 15.5GiB   0.11%     9.31kB / 1.54kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.25%     439.5MiB / 15.5GiB   2.77%     6.5MB / 232kB     820MB / 1.55GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.48%     143MiB / 15.5GiB     0.90%     88.8kB / 112kB    29.3MB / 209kB    3
+60368a64c337   cachito_asyncio-nexus-1            43.11%    2.317GiB / 15.5GiB   14.95%    13.8MB / 6.71MB   237MB / 516MB     118
+24a20d4f4018   cachito_asyncio-db-1               0.00%     43.06MiB / 15.5GiB   0.27%     66.7kB / 54.4kB   48.3MB / 76.5MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.52%     1.577GiB / 15.5GiB   10.18%    74.2kB / 65.3kB   54.8MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     17.57MiB / 15.5GiB   0.11%     9.37kB / 1.61kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.19%     439.5MiB / 15.5GiB   2.77%     6.57MB / 239kB    820MB / 1.55GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.48%     143MiB / 15.5GiB     0.90%     91.9kB / 116kB    29.3MB / 217kB    3
+60368a64c337   cachito_asyncio-nexus-1            19.82%    2.353GiB / 15.5GiB   15.18%    14.5MB / 6.81MB   237MB / 525MB     118
+24a20d4f4018   cachito_asyncio-db-1               0.00%     43.16MiB / 15.5GiB   0.27%     69.4kB / 56.8kB   48.3MB / 76.5MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.18%     1.577GiB / 15.5GiB   10.18%    77.5kB / 68.6kB   54.8MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     17.57MiB / 15.5GiB   0.11%     9.41kB / 1.65kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.25%     439.5MiB / 15.5GiB   2.77%     6.65MB / 249kB    820MB / 1.55GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.66%     143MiB / 15.5GiB     0.90%     95kB / 121kB      29.3MB / 225kB    3
+60368a64c337   cachito_asyncio-nexus-1            25.53%    2.371GiB / 15.5GiB   15.30%    15.1MB / 6.9MB    237MB / 544MB     117
+24a20d4f4018   cachito_asyncio-db-1               0.00%     43.16MiB / 15.5GiB   0.27%     72.1kB / 59.2kB   48.3MB / 76.5MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.89%     1.577GiB / 15.5GiB   10.18%    80.7kB / 71.9kB   54.8MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.01%     17.57MiB / 15.5GiB   0.11%     9.48kB / 1.72kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.21%     439.6MiB / 15.5GiB   2.77%     6.74MB / 259kB    820MB / 1.55GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.46%     143MiB / 15.5GiB     0.90%     98.4kB / 126kB    29.3MB / 233kB    3
+60368a64c337   cachito_asyncio-nexus-1            29.03%    2.384GiB / 15.5GiB   15.38%    15.9MB / 7.01MB   237MB / 554MB     119
+24a20d4f4018   cachito_asyncio-db-1               0.00%     43.2MiB / 15.5GiB    0.27%     74.8kB / 61.7kB   48.3MB / 76.5MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.12%     1.578GiB / 15.5GiB   10.18%    84.2kB / 75.5kB   54.8MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     17.57MiB / 15.5GiB   0.11%     9.63kB / 1.87kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.38%     439.7MiB / 15.5GiB   2.77%     8.09MB / 274kB    820MB / 1.55GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.47%     143MiB / 15.5GiB     0.90%     102kB / 131kB     29.3MB / 242kB    3
+60368a64c337   cachito_asyncio-nexus-1            9.62%     2.428GiB / 15.5GiB   15.66%    18.1MB / 8.41MB   237MB / 572MB     119
+24a20d4f4018   cachito_asyncio-db-1               0.00%     43.2MiB / 15.5GiB    0.27%     78.5kB / 64.1kB   48.3MB / 76.5MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         53.89%    2.569GiB / 15.5GiB   16.58%    89.1kB / 79.4kB   55.3MB / 1.59MB   41
+2e052d829465   cachito_asyncio-athens-1           0.00%     17.57MiB / 15.5GiB   0.11%     10.6kB / 1.93kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.86%     413.7MiB / 15.5GiB   2.61%     27.4MB / 300kB    820MB / 1.56GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      1.05%     139.9MiB / 15.5GiB   0.88%     106kB / 136kB     29.3MB / 250kB    3
+60368a64c337   cachito_asyncio-nexus-1            131.23%   2.599GiB / 15.5GiB   16.77%    43.3MB / 27.9MB   237MB / 593MB     119
+24a20d4f4018   cachito_asyncio-db-1               0.00%     41.36MiB / 15.5GiB   0.26%     81.2kB / 66.5kB   48.3MB / 76.5MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.23%     1.481GiB / 15.5GiB   9.56%     92.3kB / 82.7kB   55.5MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     16.56MiB / 15.5GiB   0.10%     10.9kB / 2kB      39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.31%     411MiB / 15.5GiB     2.59%     28.1MB / 313kB    820MB / 1.57GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.45%     139.8MiB / 15.5GiB   0.88%     109kB / 141kB     29.3MB / 258kB    3
+60368a64c337   cachito_asyncio-nexus-1            33.75%    2.612GiB / 15.5GiB   16.85%    44.4MB / 28.6MB   237MB / 667MB     122
+24a20d4f4018   cachito_asyncio-db-1               0.00%     42.12MiB / 15.5GiB   0.27%     83.9kB / 69kB     48.3MB / 76.5MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.15%     1.481GiB / 15.5GiB   9.56%     95.6kB / 86kB     55.5MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     16.56MiB / 15.5GiB   0.10%     10.9kB / 2.04kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.35%     411.3MiB / 15.5GiB   2.59%     30.7MB / 331kB    820MB / 1.57GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.54%     139.8MiB / 15.5GiB   0.88%     112kB / 146kB     29.3MB / 266kB    3
+60368a64c337   cachito_asyncio-nexus-1            7.37%     2.644GiB / 15.5GiB   17.06%    48.5MB / 31.2MB   237MB / 674MB     123
+24a20d4f4018   cachito_asyncio-db-1               0.00%     42.12MiB / 15.5GiB   0.27%     86.6kB / 71.4kB   48.3MB / 76.5MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.19%     1.481GiB / 15.5GiB   9.56%     99.4kB / 89.9kB   55.5MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     16.56MiB / 15.5GiB   0.10%     11kB / 2.11kB     39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.33%     411.4MiB / 15.5GiB   2.59%     31.3MB / 346kB    820MB / 1.57GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.42%     139.8MiB / 15.5GiB   0.88%     115kB / 151kB     29.3MB / 274kB    3
+60368a64c337   cachito_asyncio-nexus-1            21.45%    2.683GiB / 15.5GiB   17.31%    50.8MB / 31.9MB   237MB / 700MB     123
+24a20d4f4018   cachito_asyncio-db-1               0.00%     42.99MiB / 15.5GiB   0.27%     89.3kB / 73.8kB   48.3MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.16%     1.481GiB / 15.5GiB   9.56%     103kB / 93.5kB    55.5MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     16.56MiB / 15.5GiB   0.10%     11.1kB / 2.26kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.18%     353.9MiB / 15.5GiB   2.23%     31.5MB / 359kB    820MB / 1.57GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.49%     134.6MiB / 15.5GiB   0.85%     118kB / 156kB     33.4MB / 283kB    3
+60368a64c337   cachito_asyncio-nexus-1            148.24%   2.706GiB / 15.5GiB   17.46%    68.7MB / 32.2MB   237MB / 728MB     123
+24a20d4f4018   cachito_asyncio-db-1               0.00%     41.04MiB / 15.5GiB   0.26%     92kB / 76.3kB     48.3MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         61.44%    1.341GiB / 15.5GiB   8.65%     106kB / 96.8kB    56.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.02%     14.82MiB / 15.5GiB   0.09%     11.2kB / 2.32kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.26%     354.2MiB / 15.5GiB   2.23%     32.4MB / 367kB    820MB / 1.58GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.81%     135.3MiB / 15.5GiB   0.85%     121kB / 161kB     34.6MB / 291kB    3
+60368a64c337   cachito_asyncio-nexus-1            197.60%   3.258GiB / 15.5GiB   21.02%    74.9MB / 33.2MB   238MB / 789MB     124
+24a20d4f4018   cachito_asyncio-db-1               0.00%     41.49MiB / 15.5GiB   0.26%     94.7kB / 78.7kB   48.3MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.13%     1.341GiB / 15.5GiB   8.65%     109kB / 100kB     56.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.82MiB / 15.5GiB   0.09%     11.3kB / 2.39kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.33%     354.2MiB / 15.5GiB   2.23%     32.9MB / 382kB    820MB / 1.58GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.60%     135.3MiB / 15.5GiB   0.85%     125kB / 165kB     34.6MB / 299kB    3
+60368a64c337   cachito_asyncio-nexus-1            36.10%    3.27GiB / 15.5GiB    21.10%    77.6MB / 33.7MB   241MB / 856MB     124
+24a20d4f4018   cachito_asyncio-db-1               0.00%     41.49MiB / 15.5GiB   0.26%     97.4kB / 81.1kB   48.3MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.19%     1.341GiB / 15.5GiB   8.65%     113kB / 104kB     56.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.82MiB / 15.5GiB   0.09%     11.4kB / 2.5kB    39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.71%     354.3MiB / 15.5GiB   2.23%     34.5MB / 402kB   820MB / 1.58GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.86%     135.3MiB / 15.5GiB   0.85%     128kB / 170kB    34.6MB / 307kB    3
+60368a64c337   cachito_asyncio-nexus-1            8.28%     3.434GiB / 15.5GiB   22.16%    80MB / 35.4MB    241MB / 877MB     121
+24a20d4f4018   cachito_asyncio-db-1               0.01%     41.49MiB / 15.5GiB   0.26%     100kB / 83.6kB   48.3MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.12%     1.341GiB / 15.5GiB   8.65%     117kB / 107kB    56.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.82MiB / 15.5GiB   0.09%     11.4kB / 2.5kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.31%     354.4MiB / 15.5GiB   2.23%     34.8MB / 420kB    820MB / 1.58GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.68%     137MiB / 15.5GiB     0.86%     145kB / 196kB     38.7MB / 328kB    3
+60368a64c337   cachito_asyncio-nexus-1            22.80%    3.449GiB / 15.5GiB   22.25%    80.5MB / 35.7MB   241MB / 893MB     127
+24a20d4f4018   cachito_asyncio-db-1               0.00%     41.82MiB / 15.5GiB   0.26%     118kB / 98.8kB    48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.23%     1.341GiB / 15.5GiB   8.65%     121kB / 111kB     56.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.01%     14.82MiB / 15.5GiB   0.09%     12.4kB / 2.65kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.42%     259.9MiB / 15.5GiB   1.64%     36MB / 444kB      820MB / 1.58GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.78%     121.2MiB / 15.5GiB   0.76%     148kB / 200kB     39.6MB / 336kB    3
+60368a64c337   cachito_asyncio-nexus-1            17.75%    3.117GiB / 15.5GiB   20.11%    84MB / 36.9MB     241MB / 926MB     128
+24a20d4f4018   cachito_asyncio-db-1               0.00%     36.72MiB / 15.5GiB   0.23%     121kB / 101kB     48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.20%     1.009GiB / 15.5GiB   6.51%     125kB / 115kB     57MB / 1.59MB     37
+2e052d829465   cachito_asyncio-athens-1           0.00%     11.96MiB / 15.5GiB   0.08%     12.4kB / 2.71kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.60%     260MiB / 15.5GiB     1.64%     36.7MB / 465kB    820MB / 1.58GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.82%     122.3MiB / 15.5GiB   0.77%     151kB / 205kB     40.7MB / 344kB    3
+60368a64c337   cachito_asyncio-nexus-1            38.19%    3.137GiB / 15.5GiB   20.24%    85.4MB / 37.7MB   241MB / 962MB     128
+24a20d4f4018   cachito_asyncio-db-1               0.01%     38.54MiB / 15.5GiB   0.24%     123kB / 104kB     48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.37%     1.009GiB / 15.5GiB   6.51%     128kB / 118kB     57MB / 1.59MB     37
+2e052d829465   cachito_asyncio-athens-1           0.00%     11.96MiB / 15.5GiB   0.08%     12.6kB / 2.82kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.73%     261.5MiB / 15.5GiB   1.65%     37.9MB / 487kB    820MB / 1.58GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.88%     122.3MiB / 15.5GiB   0.77%     168kB / 230kB     40.7MB / 360kB    3
+60368a64c337   cachito_asyncio-nexus-1            22.26%    3.123GiB / 15.5GiB   20.15%    87.2MB / 38.8MB   241MB / 986MB     128
+24a20d4f4018   cachito_asyncio-db-1               0.00%     38.54MiB / 15.5GiB   0.24%     141kB / 119kB     48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.18%     1.009GiB / 15.5GiB   6.51%     131kB / 121kB     57MB / 1.59MB     37
+2e052d829465   cachito_asyncio-athens-1           0.00%     11.96MiB / 15.5GiB   0.08%     12.6kB / 2.89kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.63%     261.6MiB / 15.5GiB   1.65%     38.4MB / 508kB    820MB / 1.58GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.44%     122.3MiB / 15.5GiB   0.77%     171kB / 235kB     40.7MB / 369kB    3
+60368a64c337   cachito_asyncio-nexus-1            16.24%    3.103GiB / 15.5GiB   20.02%    88.3MB / 39.3MB   241MB / 1.01GB    128
+24a20d4f4018   cachito_asyncio-db-1               0.55%     38.71MiB / 15.5GiB   0.24%     143kB / 121kB     48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.85%     1.009GiB / 15.5GiB   6.51%     135kB / 125kB     57MB / 1.59MB     37
+2e052d829465   cachito_asyncio-athens-1           0.00%     11.96MiB / 15.5GiB   0.08%     12.7kB / 2.99kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.75%     262.7MiB / 15.5GiB   1.66%     40.9MB / 533kB    820MB / 1.58GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.61%     122.3MiB / 15.5GiB   0.77%     174kB / 240kB     40.7MB / 377kB    3
+60368a64c337   cachito_asyncio-nexus-1            43.25%    3.092GiB / 15.5GiB   19.95%    91.9MB / 42MB     241MB / 1.03GB    127
+24a20d4f4018   cachito_asyncio-db-1               0.00%     38.71MiB / 15.5GiB   0.24%     146kB / 124kB     48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.13%     1.009GiB / 15.5GiB   6.51%     138kB / 129kB     57MB / 1.59MB     37
+2e052d829465   cachito_asyncio-athens-1           0.00%     11.96MiB / 15.5GiB   0.08%     12.8kB / 3.04kB   39.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.67%     260.5MiB / 15.5GiB   1.64%     42.2MB / 557kB   820MB / 1.59GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.70%     122.2MiB / 15.5GiB   0.77%     177kB / 245kB    40.7MB / 385kB    3
+60368a64c337   cachito_asyncio-nexus-1            149.82%   3.065GiB / 15.5GiB   19.77%    94MB / 43.3MB    241MB / 1.06GB    127
+24a20d4f4018   cachito_asyncio-db-1               0.02%     38.52MiB / 15.5GiB   0.24%     149kB / 126kB    48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.74%     1.002GiB / 15.5GiB   6.46%     142kB / 132kB    58.6MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     19.04MiB / 15.5GiB   0.12%     12.8kB / 3.1kB   62.3MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.74%     253.7MiB / 15.5GiB   1.60%     45.2MB / 583kB    820MB / 1.59GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.67%     121.8MiB / 15.5GiB   0.77%     180kB / 250kB     40.7MB / 393kB    3
+60368a64c337   cachito_asyncio-nexus-1            36.21%    3.034GiB / 15.5GiB   19.57%    97.9MB / 46.4MB   241MB / 1.08GB    127
+24a20d4f4018   cachito_asyncio-db-1               0.00%     38.34MiB / 15.5GiB   0.24%     151kB / 129kB     48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.21%     1.002GiB / 15.5GiB   6.46%     146kB / 136kB     58.6MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     18.42MiB / 15.5GiB   0.12%     13kB / 3.25kB     62.3MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.51%     255.6MiB / 15.5GiB   1.61%     47MB / 605kB      820MB / 1.6GB     8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.53%     121.8MiB / 15.5GiB   0.77%     184kB / 255kB     40.7MB / 401kB    3
+60368a64c337   cachito_asyncio-nexus-1            27.88%    3.022GiB / 15.5GiB   19.50%    101MB / 48.3MB    241MB / 1.1GB     127
+24a20d4f4018   cachito_asyncio-db-1               0.01%     38.36MiB / 15.5GiB   0.24%     154kB / 131kB     48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.94%     1.001GiB / 15.5GiB   6.46%     149kB / 139kB     58.6MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     18.42MiB / 15.5GiB   0.12%     13.1kB / 3.32kB   62.3MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.60%     251.8MiB / 15.5GiB   1.59%     47.6MB / 627kB    820MB / 1.6GB     8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.58%     121.7MiB / 15.5GiB   0.77%     200kB / 280kB     40.7MB / 418kB    3
+60368a64c337   cachito_asyncio-nexus-1            40.57%    3.007GiB / 15.5GiB   19.40%    102MB / 48.9MB    241MB / 1.13GB    125
+24a20d4f4018   cachito_asyncio-db-1               0.00%     38.08MiB / 15.5GiB   0.24%     171kB / 146kB     48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.12%     1.001GiB / 15.5GiB   6.46%     152kB / 143kB     58.6MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     18.11MiB / 15.5GiB   0.11%     13.1kB / 3.38kB   62.3MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.50%     251.9MiB / 15.5GiB   1.59%     48.4MB / 644kB   820MB / 1.61GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.85%     121.7MiB / 15.5GiB   0.77%     204kB / 285kB    40.7MB / 426kB    3
+60368a64c337   cachito_asyncio-nexus-1            19.33%    2.995GiB / 15.5GiB   19.32%    103MB / 49.6MB   244MB / 1.16GB    124
+24a20d4f4018   cachito_asyncio-db-1               0.00%     38.08MiB / 15.5GiB   0.24%     175kB / 149kB    48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.23%     1.001GiB / 15.5GiB   6.46%     156kB / 146kB    58.6MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     18.11MiB / 15.5GiB   0.11%     14kB / 3.43kB    62.3MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.53%     248.9MiB / 15.5GiB   1.57%     49.4MB / 668kB    820MB / 1.61GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.68%     121.6MiB / 15.5GiB   0.77%     207kB / 290kB     40.7MB / 434kB    3
+60368a64c337   cachito_asyncio-nexus-1            16.03%    2.982GiB / 15.5GiB   19.24%    106MB / 50.7MB    244MB / 1.18GB    125
+24a20d4f4018   cachito_asyncio-db-1               0.00%     37.68MiB / 15.5GiB   0.24%     177kB / 151kB     48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.19%     1006MiB / 15.5GiB    6.34%     160kB / 150kB     58.6MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     17.87MiB / 15.5GiB   0.11%     14.1kB / 3.53kB   62.3MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.47%     249.2MiB / 15.5GiB   1.57%     51.6MB / 691kB    820MB / 1.61GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.43%     121.6MiB / 15.5GiB   0.77%     211kB / 295kB     40.7MB / 442kB    3
+60368a64c337   cachito_asyncio-nexus-1            37.48%    3.015GiB / 15.5GiB   19.46%    110MB / 53MB      248MB / 1.2GB     126
+24a20d4f4018   cachito_asyncio-db-1               0.00%     37.75MiB / 15.5GiB   0.24%     180kB / 154kB     48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.79%     1006MiB / 15.5GiB    6.34%     164kB / 153kB     58.6MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     17.87MiB / 15.5GiB   0.11%     14.5kB / 3.64kB   62.3MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.38%     249.4MiB / 15.5GiB   1.57%     52.2MB / 711kB    820MB / 1.61GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.52%     121.6MiB / 15.5GiB   0.77%     227kB / 320kB     40.7MB / 459kB    3
+60368a64c337   cachito_asyncio-nexus-1            161.21%   3.017GiB / 15.5GiB   19.46%    112MB / 53.6MB    248MB / 1.23GB    126
+24a20d4f4018   cachito_asyncio-db-1               0.00%     37.75MiB / 15.5GiB   0.24%     197kB / 169kB     48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.21%     1006MiB / 15.5GiB    6.34%     167kB / 157kB     58.6MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     17.87MiB / 15.5GiB   0.11%     14.6kB / 3.71kB   62.3MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.34%     249.9MiB / 15.5GiB   1.57%     53.8MB / 732kB    820MB / 1.61GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.54%     121.6MiB / 15.5GiB   0.77%     230kB / 325kB     40.7MB / 467kB    3
+60368a64c337   cachito_asyncio-nexus-1            21.31%    3.053GiB / 15.5GiB   19.70%    115MB / 54.7MB    248MB / 1.26GB    126
+24a20d4f4018   cachito_asyncio-db-1               0.00%     37.8MiB / 15.5GiB    0.24%     200kB / 171kB     48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.16%     1006MiB / 15.5GiB    6.34%     171kB / 161kB     58.6MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     17.87MiB / 15.5GiB   0.11%     14.6kB / 3.77kB   62.3MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.52%     249.9MiB / 15.5GiB   1.57%     54.2MB / 752kB    820MB / 1.61GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.47%     121.6MiB / 15.5GiB   0.77%     236kB / 335kB     40.7MB / 475kB    3
+60368a64c337   cachito_asyncio-nexus-1            9.97%     3.061GiB / 15.5GiB   19.75%    116MB / 55.7MB    248MB / 1.29GB    127
+24a20d4f4018   cachito_asyncio-db-1               0.00%     37.8MiB / 15.5GiB    0.24%     205kB / 176kB     48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.21%     1006MiB / 15.5GiB    6.34%     174kB / 164kB     58.6MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     17.87MiB / 15.5GiB   0.11%     14.8kB / 3.92kB   62.3MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.42%     246.2MiB / 15.5GiB   1.55%     55.6MB / 773kB    820MB / 1.61GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.48%     121.2MiB / 15.5GiB   0.76%     242kB / 344kB     40.7MB / 492kB    3
+60368a64c337   cachito_asyncio-nexus-1            23.62%    3.044GiB / 15.5GiB   19.64%    118MB / 57.1MB    248MB / 1.31GB    127
+24a20d4f4018   cachito_asyncio-db-1               0.00%     37.61MiB / 15.5GiB   0.24%     211kB / 181kB     48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.12%     982.9MiB / 15.5GiB   6.19%     177kB / 168kB     59.7MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     19.16MiB / 15.5GiB   0.12%     14.8kB / 3.92kB   64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.32%     246.4MiB / 15.5GiB   1.55%     56.8MB / 793kB    820MB / 1.61GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.43%     121.4MiB / 15.5GiB   0.77%     257kB / 424kB     40.9MB / 512kB    3
+60368a64c337   cachito_asyncio-nexus-1            31.32%    3.069GiB / 15.5GiB   19.80%    121MB / 58.7MB    248MB / 1.34GB    126
+24a20d4f4018   cachito_asyncio-db-1               0.00%     37.62MiB / 15.5GiB   0.24%     217kB / 187kB     48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.18%     983MiB / 15.5GiB     6.19%     181kB / 171kB     59.7MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     19.17MiB / 15.5GiB   0.12%     14.9kB / 4.03kB   64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.35%     236.8MiB / 15.5GiB   1.49%     57.4MB / 815kB   820MB / 1.62GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.77%     120.9MiB / 15.5GiB   0.76%     260kB / 429kB    40.9MB / 520kB    3
+60368a64c337   cachito_asyncio-nexus-1            13.77%    3.013GiB / 15.5GiB   19.44%    121MB / 59MB     248MB / 1.41GB    126
+24a20d4f4018   cachito_asyncio-db-1               0.00%     36.76MiB / 15.5GiB   0.23%     220kB / 189kB    48.4MB / 77.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.14%     981.9MiB / 15.5GiB   6.19%     184kB / 175kB    59.7MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     18.46MiB / 15.5GiB   0.12%     15kB / 4.14kB    64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.52%     236.9MiB / 15.5GiB   1.49%     57.5MB / 834kB   820MB / 1.62GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.46%     120.9MiB / 15.5GiB   0.76%     265kB / 434kB    40.9MB / 528kB    3
+60368a64c337   cachito_asyncio-nexus-1            15.88%    3.143GiB / 15.5GiB   20.28%    122MB / 59.2MB   248MB / 1.43GB    128
+24a20d4f4018   cachito_asyncio-db-1               0.00%     37.21MiB / 15.5GiB   0.23%     223kB / 191kB    48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.20%     981.9MiB / 15.5GiB   6.19%     189kB / 178kB    59.7MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     18.46MiB / 15.5GiB   0.12%     16kB / 4.25kB    64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.31%     236.9MiB / 15.5GiB   1.49%     57.7MB / 850kB   820MB / 1.62GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.45%     120.9MiB / 15.5GiB   0.76%     268kB / 439kB    40.9MB / 537kB    3
+60368a64c337   cachito_asyncio-nexus-1            20.01%    3.155GiB / 15.5GiB   20.36%    122MB / 59.3MB   248MB / 1.44GB    127
+24a20d4f4018   cachito_asyncio-db-1               0.00%     37.21MiB / 15.5GiB   0.23%     226kB / 194kB    48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.12%     981.8MiB / 15.5GiB   6.19%     192kB / 182kB    59.7MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     18.46MiB / 15.5GiB   0.12%     16kB / 4.31kB    64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.40%     209.9MiB / 15.5GiB   1.32%     58.4MB / 871kB    821MB / 1.62GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.44%     114.9MiB / 15.5GiB   0.72%     271kB / 444kB     40.9MB / 545kB    3
+60368a64c337   cachito_asyncio-nexus-1            19.19%    3.011GiB / 15.5GiB   19.43%    127MB / 59.9MB    250MB / 1.48GB    127
+24a20d4f4018   cachito_asyncio-db-1               0.00%     34.96MiB / 15.5GiB   0.22%     229kB / 196kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.20%     825.1MiB / 15.5GiB   5.20%     196kB / 186kB     60.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     16.31MiB / 15.5GiB   0.10%     16.1kB / 4.38kB   64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.56%     210MiB / 15.5GiB     1.32%     62.7MB / 895kB    821MB / 1.62GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.51%     114.9MiB / 15.5GiB   0.72%     274kB / 449kB     40.9MB / 553kB    3
+60368a64c337   cachito_asyncio-nexus-1            53.62%    3.049GiB / 15.5GiB   19.67%    132MB / 64.4MB    251MB / 1.5GB     128
+24a20d4f4018   cachito_asyncio-db-1               0.00%     34.96MiB / 15.5GiB   0.22%     231kB / 199kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.14%     825.1MiB / 15.5GiB   5.20%     199kB / 189kB     60.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     16.31MiB / 15.5GiB   0.10%     16.2kB / 4.46kB   64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.71%     203.4MiB / 15.5GiB   1.28%     63.5MB / 915kB    821MB / 1.62GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.58%     115MiB / 15.5GiB     0.72%     286kB / 525kB     40.9MB / 561kB    4
+60368a64c337   cachito_asyncio-nexus-1            14.60%    3.003GiB / 15.5GiB   19.37%    133MB / 65.2MB    251MB / 1.53GB    127
+24a20d4f4018   cachito_asyncio-db-1               0.47%     34.68MiB / 15.5GiB   0.22%     235kB / 202kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.20%     824.6MiB / 15.5GiB   5.20%     202kB / 192kB     60.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.01%     15.82MiB / 15.5GiB   0.10%     16.2kB / 4.53kB   64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.55%     203.3MiB / 15.5GiB   1.28%     64.5MB / 938kB    821MB / 1.62GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.43%     115MiB / 15.5GiB     0.72%     314kB / 741kB     40.9MB / 590kB    4
+60368a64c337   cachito_asyncio-nexus-1            34.05%    3.023GiB / 15.5GiB   19.50%    135MB / 66.3MB    251MB / 1.56GB    125
+24a20d4f4018   cachito_asyncio-db-1               0.00%     34.68MiB / 15.5GiB   0.22%     240kB / 207kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.17%     824.7MiB / 15.5GiB   5.20%     206kB / 196kB     60.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     15.82MiB / 15.5GiB   0.10%     16.3kB / 4.64kB   64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.40%     204.1MiB / 15.5GiB   1.29%     66.1MB / 960kB   821MB / 1.63GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.54%     115MiB / 15.5GiB     0.72%     335kB / 888kB    40.9MB / 602kB    4
+60368a64c337   cachito_asyncio-nexus-1            138.10%   3.064GiB / 15.5GiB   19.77%    138MB / 67.9MB   251MB / 1.59GB    124
+24a20d4f4018   cachito_asyncio-db-1               0.00%     34.68MiB / 15.5GiB   0.22%     244kB / 210kB    48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.40%     824.8MiB / 15.5GiB   5.20%     210kB / 200kB    60.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     15.82MiB / 15.5GiB   0.10%     16.4kB / 4.7kB   64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.39%     201.9MiB / 15.5GiB   1.27%     70.5MB / 986kB    821MB / 1.63GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.48%     114.3MiB / 15.5GiB   0.72%     338kB / 893kB     40.9MB / 610kB    4
+60368a64c337   cachito_asyncio-nexus-1            12.03%    3.074GiB / 15.5GiB   19.83%    144MB / 72.4MB    251MB / 1.62GB    124
+24a20d4f4018   cachito_asyncio-db-1               0.00%     34.75MiB / 15.5GiB   0.22%     247kB / 213kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.15%     810.8MiB / 15.5GiB   5.11%     213kB / 203kB     61.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     15.71MiB / 15.5GiB   0.10%     16.5kB / 4.81kB   64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.57%     201.9MiB / 15.5GiB   1.27%     70.8MB / 1.01MB   821MB / 1.63GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.52%     114.3MiB / 15.5GiB   0.72%     348kB / 967kB     40.9MB / 627kB    4
+60368a64c337   cachito_asyncio-nexus-1            20.08%    3.09GiB / 15.5GiB    19.94%    145MB / 72.7MB    251MB / 1.63GB    124
+24a20d4f4018   cachito_asyncio-db-1               0.00%     34.75MiB / 15.5GiB   0.22%     250kB / 216kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.95%     810.8MiB / 15.5GiB   5.11%     217kB / 207kB     61.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     15.8MiB / 15.5GiB    0.10%     16.6kB / 4.85kB   64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.48%     202.2MiB / 15.5GiB   1.27%     71.1MB / 1.02MB   821MB / 1.63GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.56%     114.3MiB / 15.5GiB   0.72%     352kB / 972kB     40.9MB / 635kB    4
+60368a64c337   cachito_asyncio-nexus-1            11.69%    3.106GiB / 15.5GiB   20.04%    145MB / 73MB      251MB / 1.67GB    123
+24a20d4f4018   cachito_asyncio-db-1               0.00%     34.83MiB / 15.5GiB   0.22%     253kB / 219kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.16%     810.8MiB / 15.5GiB   5.11%     220kB / 210kB     61.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     15.79MiB / 15.5GiB   0.10%     16.6kB / 4.92kB   64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.44%     202.4MiB / 15.5GiB   1.28%     71.6MB / 1.04MB   821MB / 1.63GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.50%     114.4MiB / 15.5GiB   0.72%     356kB / 977kB     40.9MB / 643kB    4
+60368a64c337   cachito_asyncio-nexus-1            32.80%    3.128GiB / 15.5GiB   20.18%    146MB / 73.7MB    251MB / 1.7GB     123
+24a20d4f4018   cachito_asyncio-db-1               0.01%     34.83MiB / 15.5GiB   0.22%     256kB / 221kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.44%     810.9MiB / 15.5GiB   5.11%     224kB / 214kB     61.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     15.79MiB / 15.5GiB   0.10%     17.6kB / 5.07kB   64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.35%     202.4MiB / 15.5GiB   1.28%     74MB / 1.07MB     821MB / 1.63GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.42%     114.3MiB / 15.5GiB   0.72%     359kB / 982kB     40.9MB / 651kB    4
+60368a64c337   cachito_asyncio-nexus-1            30.06%    3.157GiB / 15.5GiB   20.37%    150MB / 76.1MB    251MB / 1.73GB    123
+24a20d4f4018   cachito_asyncio-db-1               0.00%     34.83MiB / 15.5GiB   0.22%     259kB / 223kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.13%     811.1MiB / 15.5GiB   5.11%     228kB / 217kB     61.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     15.79MiB / 15.5GiB   0.10%     17.7kB / 5.14kB   64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.76%     190.1MiB / 15.5GiB   1.20%     74.3MB / 1.09MB   821MB / 1.63GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.53%     110.3MiB / 15.5GiB   0.70%     362kB / 987kB     40.9MB / 659kB    4
+60368a64c337   cachito_asyncio-nexus-1            18.82%    3.07GiB / 15.5GiB    19.81%    151MB / 76.4MB    251MB / 1.75GB    123
+24a20d4f4018   cachito_asyncio-db-1               0.00%     34.52MiB / 15.5GiB   0.22%     262kB / 226kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         1.08%     706.6MiB / 15.5GiB   4.45%     231kB / 221kB     61.4MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.78MiB / 15.5GiB   0.09%     17.8kB / 5.2kB    64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.44%     190.3MiB / 15.5GiB   1.20%     80MB / 1.11MB     821MB / 1.64GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.47%     110.3MiB / 15.5GiB   0.70%     365kB / 992kB     40.9MB / 668kB    4
+60368a64c337   cachito_asyncio-nexus-1            16.30%    3.108GiB / 15.5GiB   20.05%    157MB / 82.1MB    252MB / 1.77GB    123
+24a20d4f4018   cachito_asyncio-db-1               0.00%     34.52MiB / 15.5GiB   0.22%     264kB / 228kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.16%     706.5MiB / 15.5GiB   4.45%     235kB / 224kB     61.4MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.78MiB / 15.5GiB   0.09%     17.9kB / 5.31kB   64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.36%     190.5MiB / 15.5GiB   1.20%     80.5MB / 1.13MB   821MB / 1.64GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.45%     110.3MiB / 15.5GiB   0.70%     368kB / 997kB     40.9MB / 676kB    4
+60368a64c337   cachito_asyncio-nexus-1            11.31%    3.123GiB / 15.5GiB   20.15%    158MB / 82.6MB    252MB / 1.8GB     122
+24a20d4f4018   cachito_asyncio-db-1               0.00%     34.58MiB / 15.5GiB   0.22%     267kB / 231kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.52%     706.6MiB / 15.5GiB   4.45%     238kB / 228kB     61.4MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.78MiB / 15.5GiB   0.09%     17.9kB / 5.35kB   64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.36%     190.7MiB / 15.5GiB   1.20%     84.9MB / 1.15MB   821MB / 1.65GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.45%     110.3MiB / 15.5GiB   0.69%     372kB / 1MB       40.9MB / 684kB    3
+60368a64c337   cachito_asyncio-nexus-1            77.08%    3.199GiB / 15.5GiB   20.64%    166MB / 87.1MB    252MB / 1.82GB    122
+24a20d4f4018   cachito_asyncio-db-1               0.00%     34.58MiB / 15.5GiB   0.22%     270kB / 233kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.17%     706.6MiB / 15.5GiB   4.45%     242kB / 232kB     61.4MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.78MiB / 15.5GiB   0.09%     18kB / 5.46kB     64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.73%     181.9MiB / 15.5GiB   1.15%     87.5MB / 1.18MB   821MB / 1.65GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.47%     107.2MiB / 15.5GiB   0.68%     375kB / 1.01MB    40.9MB / 692kB    3
+60368a64c337   cachito_asyncio-nexus-1            41.97%    3.17GiB / 15.5GiB    20.45%    172MB / 89.8MB    252MB / 1.9GB     124
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.77MiB / 15.5GiB   0.21%     272kB / 236kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         100.88%   630.1MiB / 15.5GiB   3.97%     245kB / 235kB     62.2MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.78MiB / 15.5GiB   0.09%     18.1kB / 5.53kB   64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.36%     182.5MiB / 15.5GiB   1.15%     91.6MB / 1.2MB    821MB / 1.66GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.40%     107.2MiB / 15.5GiB   0.68%     386kB / 1.08MB    40.9MB / 700kB    4
+60368a64c337   cachito_asyncio-nexus-1            15.12%    3.2GiB / 15.5GiB     20.65%    176MB / 93.8MB    252MB / 1.92GB    123
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.77MiB / 15.5GiB   0.21%     276kB / 239kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.17%     630.1MiB / 15.5GiB   3.97%     249kB / 238kB     62.2MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     13.94MiB / 15.5GiB   0.09%     18.2kB / 5.59kB   64MB / 0B         14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.52%     182.6MiB / 15.5GiB   1.15%     92MB / 1.22MB     821MB / 1.66GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.55%     107.2MiB / 15.5GiB   0.68%     389kB / 1.09MB    40.9MB / 713kB    4
+60368a64c337   cachito_asyncio-nexus-1            11.93%    3.225GiB / 15.5GiB   20.81%    177MB / 94.3MB    252MB / 1.93GB    124
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.79MiB / 15.5GiB   0.21%     279kB / 241kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.16%     630.4MiB / 15.5GiB   3.97%     252kB / 242kB     62.2MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     16.05MiB / 15.5GiB   0.10%     18.3kB / 5.74kB   65.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.69%     183.2MiB / 15.5GiB   1.15%     94.8MB / 1.25MB   821MB / 1.66GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.80%     107.3MiB / 15.5GiB   0.68%     425kB / 1.37MB    40.9MB / 721kB    4
+60368a64c337   cachito_asyncio-nexus-1            44.19%    3.283GiB / 15.5GiB   21.18%    182MB / 97.2MB    252MB / 1.96GB    125
+24a20d4f4018   cachito_asyncio-db-1               0.00%     34.18MiB / 15.5GiB   0.22%     285kB / 247kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.24%     630.4MiB / 15.5GiB   3.97%     257kB / 246kB     62.2MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     16.05MiB / 15.5GiB   0.10%     19.2kB / 5.74kB   65.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.40%     183.3MiB / 15.5GiB   1.15%     95.6MB / 1.27MB   821MB / 1.66GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.38%     107.3MiB / 15.5GiB   0.68%     431kB / 1.38MB    40.9MB / 737kB    4
+60368a64c337   cachito_asyncio-nexus-1            15.22%    3.301GiB / 15.5GiB   21.30%    183MB / 98MB      252MB / 1.99GB    125
+24a20d4f4018   cachito_asyncio-db-1               0.00%     34.18MiB / 15.5GiB   0.22%     291kB / 251kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.14%     630.3MiB / 15.5GiB   3.97%     260kB / 249kB     62.2MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     16.05MiB / 15.5GiB   0.10%     19.5kB / 5.85kB   65.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.49%     173.1MiB / 15.5GiB   1.09%     96.6MB / 1.29MB   821MB / 1.66GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.43%     102.5MiB / 15.5GiB   0.65%     434kB / 1.39MB    40.9MB / 745kB    4
+60368a64c337   cachito_asyncio-nexus-1            12.70%    3.198GiB / 15.5GiB   20.63%    185MB / 99MB      252MB / 2.05GB    124
+24a20d4f4018   cachito_asyncio-db-1               0.00%     32.51MiB / 15.5GiB   0.20%     293kB / 254kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         14.09%    526.4MiB / 15.5GiB   3.32%     263kB / 253kB     62.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.86MiB / 15.5GiB   0.09%     19.6kB / 5.96kB   65.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.66%     173.2MiB / 15.5GiB   1.09%     97.3MB / 1.31MB   821MB / 1.66GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.41%     102.5MiB / 15.5GiB   0.65%     437kB / 1.39MB    40.9MB / 754kB    4
+60368a64c337   cachito_asyncio-nexus-1            20.60%    3.224GiB / 15.5GiB   20.80%    186MB / 99.6MB    252MB / 2.07GB    124
+24a20d4f4018   cachito_asyncio-db-1               0.00%     32.51MiB / 15.5GiB   0.20%     296kB / 256kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.17%     526.7MiB / 15.5GiB   3.32%     267kB / 256kB     62.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.86MiB / 15.5GiB   0.09%     19.7kB / 6.07kB   65.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.57%     174.9MiB / 15.5GiB   1.10%     103MB / 1.33MB    821MB / 1.66GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.39%     102.5MiB / 15.5GiB   0.65%     440kB / 1.4MB     40.9MB / 762kB    4
+60368a64c337   cachito_asyncio-nexus-1            31.00%    3.285GiB / 15.5GiB   21.20%    194MB / 106MB     252MB / 2.11GB    128
+24a20d4f4018   cachito_asyncio-db-1               0.00%     32.51MiB / 15.5GiB   0.20%     299kB / 259kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.21%     526.7MiB / 15.5GiB   3.32%     270kB / 260kB     62.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.01%     14.86MiB / 15.5GiB   0.09%     19.7kB / 6.13kB   65.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.43%     174.7MiB / 15.5GiB   1.10%     104MB / 1.35MB   821MB / 1.67GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.49%     102.5MiB / 15.5GiB   0.65%     444kB / 1.4MB    40.9MB / 770kB    3
+60368a64c337   cachito_asyncio-nexus-1            38.19%    3.312GiB / 15.5GiB   21.37%    195MB / 106MB    252MB / 2.12GB    128
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.2MiB / 15.5GiB    0.21%     302kB / 261kB    48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.15%     527.1MiB / 15.5GiB   3.32%     274kB / 263kB    62.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.86MiB / 15.5GiB   0.09%     19.8kB / 6.2kB   65.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.44%     174.9MiB / 15.5GiB   1.10%     117MB / 1.38MB    821MB / 1.67GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.42%     102.5MiB / 15.5GiB   0.65%     447kB / 1.41MB    40.9MB / 778kB    3
+60368a64c337   cachito_asyncio-nexus-1            9.97%     3.411GiB / 15.5GiB   22.01%    210MB / 119MB     252MB / 2.14GB    128
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.2MiB / 15.5GiB    0.21%     304kB / 264kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.19%     527.1MiB / 15.5GiB   3.32%     278kB / 267kB     62.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.86MiB / 15.5GiB   0.09%     19.9kB / 6.28kB   65.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.31%     172.7MiB / 15.5GiB   1.09%     120MB / 1.4MB    823MB / 1.68GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.54%     101.3MiB / 15.5GiB   0.64%     450kB / 1.41MB   40.9MB / 786kB    3
+60368a64c337   cachito_asyncio-nexus-1            42.96%    3.366GiB / 15.5GiB   21.72%    215MB / 122MB    266MB / 2.2GB     128
+24a20d4f4018   cachito_asyncio-db-1               0.00%     32.81MiB / 15.5GiB   0.21%     307kB / 266kB    48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.17%     502.3MiB / 15.5GiB   3.17%     281kB / 271kB    62.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.79MiB / 15.5GiB   0.09%     20kB / 6.35kB    65.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.45%     172.4MiB / 15.5GiB   1.09%     121MB / 1.42MB    823MB / 1.69GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.91%     101.3MiB / 15.5GiB   0.64%     462kB / 1.49MB    40.9MB / 795kB    4
+60368a64c337   cachito_asyncio-nexus-1            23.43%    3.437GiB / 15.5GiB   22.18%    219MB / 124MB     266MB / 2.22GB    125
+24a20d4f4018   cachito_asyncio-db-1               0.04%     32.81MiB / 15.5GiB   0.21%     310kB / 269kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.22%     502.4MiB / 15.5GiB   3.17%     284kB / 274kB     62.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.79MiB / 15.5GiB   0.09%     20.1kB / 6.46kB   65.9MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.44%     171.9MiB / 15.5GiB   1.08%     122MB / 1.44MB    823MB / 1.69GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.38%     101.3MiB / 15.5GiB   0.64%     476kB / 1.57MB    40.9MB / 815kB    4
+60368a64c337   cachito_asyncio-nexus-1            21.10%    3.472GiB / 15.5GiB   22.40%    222MB / 125MB     266MB / 2.28GB    124
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.14MiB / 15.5GiB   0.21%     317kB / 275kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.11%     502.3MiB / 15.5GiB   3.17%     287kB / 277kB     62.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     18.5MiB / 15.5GiB    0.12%     20.2kB / 6.56kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   34.88%    178.6MiB / 15.5GiB   1.13%     124MB / 1.71MB    823MB / 1.69GB    7
+088cb4583de3   cachito_asyncio-cachito-api-1      1.57%     101.3MiB / 15.5GiB   0.64%     507kB / 1.81MB    40.9MB / 823kB    4
+60368a64c337   cachito_asyncio-nexus-1            293.61%   3.515GiB / 15.5GiB   22.68%    223MB / 127MB     276MB / 2.3GB     137
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.24MiB / 15.5GiB   0.21%     320kB / 277kB     48.4MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.45%     502.1MiB / 15.5GiB   3.16%     292kB / 281kB     62.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     18.5MiB / 15.5GiB    0.12%     21.1kB / 6.63kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.17%     180.5MiB / 15.5GiB   1.14%     126MB / 2.33MB    823MB / 1.69GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.42%     102.7MiB / 15.5GiB   0.65%     521kB / 1.83MB    44.2MB / 836kB    4
+60368a64c337   cachito_asyncio-nexus-1            6.03%     3.548GiB / 15.5GiB   22.89%    224MB / 129MB     278MB / 2.32GB    139
+24a20d4f4018   cachito_asyncio-db-1               0.00%     34.79MiB / 15.5GiB   0.22%     333kB / 289kB     50.9MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.12%     502.3MiB / 15.5GiB   3.16%     296kB / 285kB     62.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     18.5MiB / 15.5GiB    0.12%     21.2kB / 6.74kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.39%     170.8MiB / 15.5GiB   1.08%     127MB / 2.35MB    823MB / 1.69GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.38%     98.11MiB / 15.5GiB   0.62%     525kB / 1.84MB    44.2MB / 848kB    4
+60368a64c337   cachito_asyncio-nexus-1            74.06%    3.507GiB / 15.5GiB   22.63%    225MB / 130MB     295MB / 2.34GB    139
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.51MiB / 15.5GiB   0.21%     336kB / 292kB     50.9MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.35%     399MiB / 15.5GiB     2.51%     299kB / 288kB     63.2MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     16.85MiB / 15.5GiB   0.11%     21.2kB / 6.78kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.28%     167.8MiB / 15.5GiB   1.06%     130MB / 2.37MB    827MB / 1.7GB     8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.47%     97.8MiB / 15.5GiB    0.62%     528kB / 1.84MB    44.2MB / 856kB    4
+60368a64c337   cachito_asyncio-nexus-1            19.93%    3.542GiB / 15.5GiB   22.85%    228MB / 133MB     307MB / 2.36GB    140
+24a20d4f4018   cachito_asyncio-db-1               0.00%     32.66MiB / 15.5GiB   0.21%     338kB / 295kB     50.9MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.15%     398MiB / 15.5GiB     2.51%     303kB / 292kB     63.2MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     16.16MiB / 15.5GiB   0.10%     21.4kB / 6.89kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.46%     168MiB / 15.5GiB     1.06%     131MB / 2.4MB    827MB / 1.7GB     8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.50%     97.8MiB / 15.5GiB    0.62%     532kB / 1.85MB   44.2MB / 864kB    4
+60368a64c337   cachito_asyncio-nexus-1            20.32%    3.623GiB / 15.5GiB   23.38%    229MB / 134MB    309MB / 2.38GB    137
+24a20d4f4018   cachito_asyncio-db-1               0.01%     33.93MiB / 15.5GiB   0.21%     341kB / 298kB    50.9MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.52%     398MiB / 15.5GiB     2.51%     306kB / 295kB    63.2MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     16.16MiB / 15.5GiB   0.10%     21.6kB / 7kB     70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.61%     168.1MiB / 15.5GiB   1.06%     132MB / 2.42MB    827MB / 1.7GB     8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.42%     97.82MiB / 15.5GiB   0.62%     539kB / 1.86MB    44.2MB / 881kB    4
+60368a64c337   cachito_asyncio-nexus-1            11.29%    3.656GiB / 15.5GiB   23.59%    230MB / 135MB     311MB / 2.4GB     136
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.93MiB / 15.5GiB   0.21%     347kB / 303kB     50.9MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.14%     398MiB / 15.5GiB     2.51%     310kB / 299kB     63.2MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     16.16MiB / 15.5GiB   0.10%     21.7kB / 7.06kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.54%     168.4MiB / 15.5GiB   1.06%     134MB / 2.44MB    827MB / 1.7GB     8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.46%     97.82MiB / 15.5GiB   0.62%     542kB / 1.86MB    44.2MB / 889kB    4
+60368a64c337   cachito_asyncio-nexus-1            12.59%    3.702GiB / 15.5GiB   23.89%    233MB / 137MB     311MB / 2.44GB    135
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.93MiB / 15.5GiB   0.21%     349kB / 306kB     50.9MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.20%     398.1MiB / 15.5GiB   2.51%     313kB / 302kB     63.2MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.01%     16.16MiB / 15.5GiB   0.10%     21.8kB / 7.17kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.54%     160MiB / 15.5GiB     1.01%     134MB / 2.46MB    827MB / 1.7GB     8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.45%     93.91MiB / 15.5GiB   0.59%     546kB / 1.87MB    44.2MB / 897kB    4
+60368a64c337   cachito_asyncio-nexus-1            23.15%    3.571GiB / 15.5GiB   23.04%    234MB / 137MB     311MB / 2.46GB    135
+24a20d4f4018   cachito_asyncio-db-1               0.00%     32.03MiB / 15.5GiB   0.20%     352kB / 309kB     50.9MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.14%     313MiB / 15.5GiB     1.97%     317kB / 306kB     64.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.94MiB / 15.5GiB   0.09%     21.9kB / 7.21kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.34%     160MiB / 15.5GiB     1.01%     135MB / 2.48MB   827MB / 1.7GB     8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.55%     93.91MiB / 15.5GiB   0.59%     549kB / 1.87MB   44.2MB / 905kB    4
+60368a64c337   cachito_asyncio-nexus-1            30.94%    3.616GiB / 15.5GiB   23.33%    236MB / 138MB    312MB / 2.48GB    136
+24a20d4f4018   cachito_asyncio-db-1               0.00%     32.03MiB / 15.5GiB   0.20%     355kB / 312kB    50.9MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.58%     313.1MiB / 15.5GiB   1.97%     320kB / 309kB    64.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.94MiB / 15.5GiB   0.09%     22kB / 7.32kB    70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.44%     160.3MiB / 15.5GiB   1.01%     136MB / 2.5MB    827MB / 1.7GB     8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.46%     93.91MiB / 15.5GiB   0.59%     554kB / 1.88MB   44.2MB / 913kB    4
+60368a64c337   cachito_asyncio-nexus-1            20.05%    3.626GiB / 15.5GiB   23.40%    236MB / 139MB    314MB / 2.51GB    136
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.66MiB / 15.5GiB   0.21%     358kB / 315kB    50.9MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.12%     313.3MiB / 15.5GiB   1.97%     324kB / 313kB    64.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.94MiB / 15.5GiB   0.09%     23kB / 7.43kB    70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.57%     160.5MiB / 15.5GiB   1.01%     136MB / 2.52MB    827MB / 1.7GB     8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.43%     93.91MiB / 15.5GiB   0.59%     558kB / 1.88MB    44.2MB / 922kB    4
+60368a64c337   cachito_asyncio-nexus-1            17.58%    3.661GiB / 15.5GiB   23.62%    237MB / 139MB     315MB / 2.53GB    136
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.66MiB / 15.5GiB   0.21%     361kB / 317kB     50.9MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.61%     313.2MiB / 15.5GiB   1.97%     328kB / 317kB     64.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.95MiB / 15.5GiB   0.09%     23.1kB / 7.54kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O          BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.42%     161.7MiB / 15.5GiB   1.02%     139MB / 2.54MB   827MB / 1.71GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.47%     93.92MiB / 15.5GiB   0.59%     561kB / 1.89MB   44.2MB / 930kB    4
+60368a64c337   cachito_asyncio-nexus-1            29.09%    3.682GiB / 15.5GiB   23.76%    240MB / 142MB    315MB / 2.56GB    136
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.76MiB / 15.5GiB   0.21%     364kB / 320kB    50.9MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.17%     313.1MiB / 15.5GiB   1.97%     331kB / 320kB    64.3MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.95MiB / 15.5GiB   0.09%     23.2kB / 7.6kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.62%     159.7MiB / 15.5GiB   1.01%     142MB / 2.57MB    827MB / 1.71GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.40%     93.34MiB / 15.5GiB   0.59%     564kB / 1.9MB     44.2MB / 938kB    4
+60368a64c337   cachito_asyncio-nexus-1            27.49%    3.679GiB / 15.5GiB   23.74%    244MB / 145MB     315MB / 2.58GB    136
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.39MiB / 15.5GiB   0.21%     366kB / 323kB     50.9MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.39%     300.1MiB / 15.5GiB   1.89%     335kB / 323kB     65.8MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.73MiB / 15.5GiB   0.09%     23.3kB / 7.71kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.36%     159.8MiB / 15.5GiB   1.01%     142MB / 2.58MB    827MB / 1.71GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.50%     93.32MiB / 15.5GiB   0.59%     568kB / 1.9MB     44.2MB / 946kB    3
+60368a64c337   cachito_asyncio-nexus-1            11.01%    3.696GiB / 15.5GiB   23.85%    244MB / 146MB     315MB / 2.6GB     135
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.39MiB / 15.5GiB   0.21%     369kB / 326kB     50.9MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.21%     299.7MiB / 15.5GiB   1.89%     339kB / 327kB     65.8MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.73MiB / 15.5GiB   0.09%     23.3kB / 7.75kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.55%     159.9MiB / 15.5GiB   1.01%     143MB / 2.6MB     827MB / 1.71GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      2.94%     93.36MiB / 15.5GiB   0.59%     648kB / 2.83MB    44.2MB / 954kB    4
+60368a64c337   cachito_asyncio-nexus-1            57.63%    3.728GiB / 15.5GiB   24.05%    246MB / 146MB     317MB / 2.63GB    134
+24a20d4f4018   cachito_asyncio-db-1               0.04%     33.63MiB / 15.5GiB   0.21%     373kB / 329kB     50.9MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.17%     299.9MiB / 15.5GiB   1.89%     342kB / 331kB     65.8MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.73MiB / 15.5GiB   0.09%     23.4kB / 7.86kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.47%     164.7MiB / 15.5GiB   1.04%     154MB / 2.63MB    827MB / 1.72GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.44%     93.4MiB / 15.5GiB    0.59%     652kB / 2.83MB    44.2MB / 967kB    4
+60368a64c337   cachito_asyncio-nexus-1            11.45%    3.779GiB / 15.5GiB   24.38%    257MB / 158MB     317MB / 2.65GB    136
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.63MiB / 15.5GiB   0.21%     375kB / 332kB     50.9MB / 77.2MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.16%     300.1MiB / 15.5GiB   1.89%     345kB / 334kB     65.8MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.74MiB / 15.5GiB   0.09%     23.5kB / 7.97kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.50%     167.3MiB / 15.5GiB   1.05%     156MB / 3.04MB    827MB / 1.72GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.41%     95.49MiB / 15.5GiB   0.60%     662kB / 2.85MB    46.4MB / 991kB    4
+60368a64c337   cachito_asyncio-nexus-1            4.27%     3.788GiB / 15.5GiB   24.44%    258MB / 159MB     319MB / 2.66GB    137
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.64MiB / 15.5GiB   0.21%     383kB / 341kB     50.9MB / 77.3MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.14%     299.9MiB / 15.5GiB   1.89%     349kB / 338kB     65.8MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     14.74MiB / 15.5GiB   0.09%     23.7kB / 8.08kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.44%     154.4MiB / 15.5GiB   0.97%     156MB / 3.05MB    827MB / 1.72GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.52%     88.67MiB / 15.5GiB   0.56%     666kB / 2.85MB    46.4MB / 999kB    4
+60368a64c337   cachito_asyncio-nexus-1            16.83%    3.537GiB / 15.5GiB   22.82%    259MB / 160MB     320MB / 2.69GB    137
+24a20d4f4018   cachito_asyncio-db-1               0.01%     30.03MiB / 15.5GiB   0.19%     386kB / 344kB     50.9MB / 77.3MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.22%     146.1MiB / 15.5GiB   0.92%     352kB / 341kB     65.8MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     12.89MiB / 15.5GiB   0.08%     23.7kB / 8.14kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.30%     154.5MiB / 15.5GiB   0.97%     158MB / 3.07MB    827MB / 1.73GB    8
+088cb4583de3   cachito_asyncio-cachito-api-1      0.45%     88.67MiB / 15.5GiB   0.56%     669kB / 2.86MB    46.4MB / 1.01MB   4
+60368a64c337   cachito_asyncio-nexus-1            21.54%    3.569GiB / 15.5GiB   23.03%    261MB / 161MB     320MB / 2.71GB    137
+24a20d4f4018   cachito_asyncio-db-1               0.26%     32.96MiB / 15.5GiB   0.21%     389kB / 347kB     51.5MB / 77.7MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.14%     146.2MiB / 15.5GiB   0.92%     356kB / 345kB     65.8MB / 1.59MB   37
+2e052d829465   cachito_asyncio-athens-1           0.00%     12.89MiB / 15.5GiB   0.08%     23.8kB / 8.18kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   99.49%    314.2MiB / 15.5GiB   1.98%     158MB / 4.74MB    1.16GB / 1.77GB   7
+088cb4583de3   cachito_asyncio-cachito-api-1      0.43%     95.66MiB / 15.5GiB   0.60%     2.28MB / 6.05MB   47.3MB / 1.03MB   4
+60368a64c337   cachito_asyncio-nexus-1            0.52%     3.576GiB / 15.5GiB   23.07%    261MB / 162MB     324MB / 2.73GB    137
+24a20d4f4018   cachito_asyncio-db-1               0.00%     37.54MiB / 15.5GiB   0.24%     3.57MB / 370kB    52.5MB / 78.8MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.16%     146MiB / 15.5GiB     0.92%     361kB / 349kB     65.8MB / 1.6MB    37
+2e052d829465   cachito_asyncio-athens-1           0.00%     12.89MiB / 15.5GiB   0.08%     24.7kB / 8.29kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   99.53%    507.5MiB / 15.5GiB   3.20%     158MB / 4.74MB    1.57GB / 2.08GB   7
+088cb4583de3   cachito_asyncio-cachito-api-1      0.41%     95.66MiB / 15.5GiB   0.60%     2.28MB / 6.05MB   47.3MB / 1.04MB   4
+60368a64c337   cachito_asyncio-nexus-1            0.47%     3.576GiB / 15.5GiB   23.07%    261MB / 162MB     324MB / 2.75GB    137
+24a20d4f4018   cachito_asyncio-db-1               0.00%     37.54MiB / 15.5GiB   0.24%     3.57MB / 373kB    52.5MB / 78.8MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.14%     146.1MiB / 15.5GiB   0.92%     365kB / 354kB     65.8MB / 1.6MB    37
+2e052d829465   cachito_asyncio-athens-1           0.00%     12.99MiB / 15.5GiB   0.08%     24.8kB / 8.4kB    70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   68.56%    585.5MiB / 15.5GiB   3.69%     158MB / 4.74MB    1.71GB / 2.57GB   7
+088cb4583de3   cachito_asyncio-cachito-api-1      0.69%     90.55MiB / 15.5GiB   0.57%     2.29MB / 6.06MB   47.3MB / 1.05MB   4
+60368a64c337   cachito_asyncio-nexus-1            0.75%     3.412GiB / 15.5GiB   22.02%    261MB / 162MB     328MB / 2.76GB    135
+24a20d4f4018   cachito_asyncio-db-1               0.00%     35.92MiB / 15.5GiB   0.23%     3.57MB / 379kB    52.5MB / 78.8MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         32.79%    583.8MiB / 15.5GiB   3.68%     368kB / 357kB     66.8MB / 1.6MB    41
+2e052d829465   cachito_asyncio-athens-1           0.01%     12.22MiB / 15.5GiB   0.08%     24.9kB / 8.51kB   70.2MB / 0B       14
+CONTAINER ID   NAME                               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O         PIDS
+bafa4c7ff927   cachito_asyncio-cachito-worker-1   0.07%     957.6MiB / 15.5GiB   6.03%     159MB / 4.76MB    2.3GB / 2.57GB    7
+088cb4583de3   cachito_asyncio-cachito-api-1      0.55%     89.14MiB / 15.5GiB   0.56%     2.31MB / 6.99MB   48.9MB / 1.09MB   3
+60368a64c337   cachito_asyncio-nexus-1            0.54%     3.109GiB / 15.5GiB   20.06%    261MB / 162MB     345MB / 2.76GB    133
+24a20d4f4018   cachito_asyncio-db-1               0.00%     33.87MiB / 15.5GiB   0.21%     3.59MB / 395kB    52.5MB / 79.1MB   8
+2da5f18cb9ee   cachito_asyncio-rabbitmq-1         0.13%     51.04MiB / 15.5GiB   0.32%     373kB / 361kB     67MB / 1.61MB     37
+2e052d829465   cachito_asyncio-athens-1           0.00%     10.08MiB / 15.5GiB   0.06%     25kB / 8.57kB     70.2MB / 0B       14
